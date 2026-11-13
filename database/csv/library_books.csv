@@ -1,0 +1,31 @@
+id,isbn,title,author,category,total_copies,available_copies,created_at
+1,978-0131103627,The C Programming Language,Brian Kernighan & Dennis Ritchie,Computer Science,10,8,2026-11-05 14:13:09
+2,978-0262033848,Introduction to Algorithms (CLRS),Thomas H. Cormen et al.,Computer Science,12,9,2026-11-05 14:13:09
+3,978-0132350884,Clean Code: A Handbook of Agile Craftsmanship,Robert C. Martin,Computer Science,8,6,2026-11-05 14:13:09
+4,978-0073523323,Database System Concepts,Abraham Silberschatz et al.,Computer Science,10,7,2026-11-05 14:13:09
+5,978-0133594140,Operating Systems: Internals & Design,William Stallings,Computer Science,6,5,2026-11-05 14:13:09
+6,978-0132856201,Computer Networks,Andrew S. Tanenbaum,Computer Science,8,6,2026-11-05 14:13:09
+7,978-0262035613,Deep Learning,"Ian Goodfellow, Yoshua Bengio",AI & Data Science,6,4,2026-11-05 14:13:09
+8,978-0134444321,Artificial Intelligence: A Modern Approach,Stuart Russell & Peter Norvig,AI & Data Science,8,6,2026-11-05 14:13:09
+9,978-0195139051,Microelectronic Circuits,Adel S. Sedra & Kenneth C. Smith,Electronics,10,8,2026-11-05 14:13:09
+10,978-0070146143,Electronic Principles,Albert Malvino & David Bates,Electronics,7,5,2026-11-05 14:13:09
+11,978-0131850101,Digital Design: Principles & Practices,John F. Wakerly,Electronics,6,4,2026-11-05 14:13:09
+12,978-0131424647,Signals and Systems,Alan V. Oppenheim,Electronics,8,6,2026-11-05 14:13:09
+13,978-0073398204,Engineering Mechanics: Statics & Dynamics,Ferdinand P. Beer et al.,Mechanical,8,6,2026-11-05 14:13:09
+14,978-0073398174,Thermodynamics: An Engineering Approach,Yunus A. Cengel & Michael Boles,Mechanical,9,7,2026-11-05 14:13:09
+15,978-0470547557,Fluid Mechanics,Frank M. White,Mechanical,6,5,2026-11-05 14:13:09
+16,978-0134056388,Introduction to Robotics: Mechanics & Control,John J. Craig,Mechanical,5,4,2026-11-05 14:13:09
+17,978-0134482804,Structural Analysis,Russell C. Hibbeler,Civil,8,6,2026-11-05 14:13:09
+18,978-0471216445,Soil Mechanics and Foundations,Muni Budhu,Civil,6,5,2026-11-05 14:13:09
+19,978-0070151413,Surveying (Vol I & II),B. C. Punmia,Civil,7,6,2026-11-05 14:13:09
+20,978-0135000045,Electric Circuits,James W. Nilsson,Electrical,8,6,2026-11-05 14:13:09
+21,978-0070151437,Electrical Machines,I. J. Nagrath & D. P. Kothari,Electrical,8,6,2026-11-05 14:13:09
+22,978-0070144781,Modern Power System Analysis,D. P. Kothari & I. J. Nagrath,Electrical,6,5,2026-11-05 14:13:09
+23,978-0470088517,Control Systems Engineering,Norman S. Nise,Electrical,7,6,2026-11-05 14:13:09
+24,978-0134685991,Effective Java,Joshua Bloch,IT & Software,8,6,2026-11-05 14:13:09
+25,978-1491950296,Designing Data-Intensive Applications,Martin Kleppmann,IT & Software,10,8,2026-11-05 14:13:09
+26,978-0321356680,Molecular Biology of the Gene,James D. Watson et al.,Biotechnology,6,5,2026-11-05 14:13:09
+27,978-0130877888,Bioprocess Engineering Principles,Pauline M. Doran,Biotechnology,5,4,2026-11-05 14:13:09
+28,978-0134787039,Management: A Global & Entrepreneurial Perspective,Harold Koontz & Heinz Weihrich,Management,8,7,2026-11-05 14:13:09
+29,978-0133856460,Marketing Management,Philip Kotler & Kevin Lane Keller,Management,10,8,2026-11-05 14:13:09
+30,978-0078034770,Corporate Finance,Stephen A. Ross et al.,Management,8,6,2026-11-05 14:13:09

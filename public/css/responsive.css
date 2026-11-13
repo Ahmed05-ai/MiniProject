@@ -1,0 +1,48 @@
+/**
+ * Responsive Stylesheet
+ * Ensures clean presentation on Mobile (< 768px), Tablet (768px - 1024px), and Desktop
+ */
+
+/* ==========================================================================
+   Mobile Devices (< 768px)
+   ========================================================================== */
+@media (max-width: 768px) {
+    .auth-page-body {
+        padding: 12px;
+        height: auto;
+        min-height: 100vh;
+        overflow-y: auto;
+    }
+
+    .login-wrapper {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .compact-login-card {
+        padding: 20px 18px 16px;
+        border-radius: 16px;
+    }
+}
+
+/* ==========================================================================
+   Tablets & Medium Screens (768px - 1024px)
+   ========================================================================== */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .login-wrapper {
+        max-width: 420px;
+    }
+}
+
+/* ==========================================================================
+   Print Styles
+   ========================================================================== */
+@media print {
+    .sidebar, .topbar, .campus-bg-container {
+        display: none !important;
+    }
+    body {
+        background: #ffffff !important;
+        color: #000000 !important;
+    }
+}

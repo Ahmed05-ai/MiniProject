@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "room_id": 1,
+    "student_id": 1,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 2,
+    "room_id": 2,
+    "student_id": 2,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 3,
+    "room_id": 3,
+    "student_id": 3,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 4,
+    "room_id": 4,
+    "student_id": 4,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 5,
+    "room_id": 5,
+    "student_id": 5,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 6,
+    "room_id": 6,
+    "student_id": 6,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 7,
+    "room_id": 7,
+    "student_id": 7,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 8,
+    "room_id": 8,
+    "student_id": 8,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 9,
+    "room_id": 9,
+    "student_id": 9,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 10,
+    "room_id": 10,
+    "student_id": 10,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 11,
+    "room_id": 11,
+    "student_id": 11,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 12,
+    "room_id": 12,
+    "student_id": 12,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 13,
+    "room_id": 13,
+    "student_id": 13,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 14,
+    "room_id": 14,
+    "student_id": 14,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 15,
+    "room_id": 15,
+    "student_id": 15,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 16,
+    "room_id": 1,
+    "student_id": 16,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 17,
+    "room_id": 2,
+    "student_id": 17,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 18,
+    "room_id": 3,
+    "student_id": 18,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 19,
+    "room_id": 4,
+    "student_id": 19,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 20,
+    "room_id": 5,
+    "student_id": 20,
+    "academic_year": "2025-2026",
+    "allocation_date": "2025-08-01",
+    "status": "Active",
+    "created_at": "2026-11-05 14:13:09"
+  }
+]

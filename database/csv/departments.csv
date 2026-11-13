@@ -1,0 +1,9 @@
+id,code,name,description,created_at
+1,CSE,Computer Science & Engineering,"Computing, Software Systems, AI & Cybersecurity",2026-11-05 14:13:07
+2,ECE,Electronics & Communication,"VLSI, Embedded Systems, IoT & Telecommunication",2026-11-05 14:13:07
+3,ME,Mechanical Engineering,"Robotics, Thermal Engineering & Advanced Manufacturing",2026-11-05 14:13:07
+4,CE,Civil Engineering,"Structural Engineering, Urban Planning & Smart Infrastructure",2026-11-05 14:13:07
+5,EE,Electrical Engineering,"Power Grids, Renewable Energy & Control Systems",2026-11-05 14:13:07
+6,IT,Information Technology,"Cloud Computing, Enterprise Networks & Data Engineering",2026-11-05 14:13:07
+7,BT,Biotechnology & Bioinformatics,"Genetic Engineering, Bioprocessing & Health Informatics",2026-11-05 14:13:07
+8,MBA,Management Studies,"Finance, Marketing, Operations & Strategic Management",2026-11-05 14:13:07

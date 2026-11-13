@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "user_id": 25,
+    "course_id": 1,
+    "faculty_id": 1,
+    "rating": 5,
+    "comments": "Exceptional teaching methodology and clear conceptual explanations.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 2,
+    "user_id": 26,
+    "course_id": 2,
+    "faculty_id": 2,
+    "rating": 5,
+    "comments": "Very helpful practical problem solving and algorithm analysis.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "user_id": 27,
+    "course_id": 3,
+    "faculty_id": 3,
+    "rating": 4,
+    "comments": "Great database design assignments and live query walkthroughs.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "user_id": 28,
+    "course_id": 4,
+    "faculty_id": 1,
+    "rating": 5,
+    "comments": "Network architecture concepts made very easy to comprehend.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "user_id": 29,
+    "course_id": 5,
+    "faculty_id": 2,
+    "rating": 5,
+    "comments": "Inspiring lectures on AI, machine learning, and deep neural nets.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "user_id": 30,
+    "course_id": 7,
+    "faculty_id": 4,
+    "rating": 4,
+    "comments": "Thorough coverage of electronic logic gates and circuits.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "user_id": 31,
+    "course_id": 11,
+    "faculty_id": 7,
+    "rating": 5,
+    "comments": "Clear mechanical engineering diagrams and numerical guidance.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "user_id": 32,
+    "course_id": 15,
+    "faculty_id": 9,
+    "rating": 4,
+    "comments": "Practical field surveying exercises were very well organized.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "user_id": 33,
+    "course_id": 19,
+    "faculty_id": 11,
+    "rating": 4,
+    "comments": "Detailed derivations and good balance of theoretical concepts.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "user_id": 34,
+    "course_id": 23,
+    "faculty_id": 13,
+    "rating": 5,
+    "comments": "Modern web stack training with React and Express was outstanding.",
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

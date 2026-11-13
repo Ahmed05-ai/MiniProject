@@ -1,0 +1,21 @@
+id,assignment_id,student_id,submission_date,file_url,marks_awarded,status,created_at
+1,1,1,2026-11-01,https://campus.edu/submissions/project_report.pdf,41,Graded,2026-11-05 14:13:10
+2,2,9,2026-11-02,https://campus.edu/submissions/project_report.pdf,45,Graded,2026-11-05 14:13:10
+3,3,1,2026-11-03,https://campus.edu/submissions/project_report.pdf,40,Graded,2026-11-05 14:13:10
+4,4,9,2026-11-04,https://campus.edu/submissions/project_report.pdf,48,Graded,2026-11-05 14:13:10
+5,5,2,2026-11-05,https://campus.edu/submissions/project_report.pdf,43,Graded,2026-11-05 14:13:10
+6,6,10,2026-11-01,https://campus.edu/submissions/project_report.pdf,44,Graded,2026-11-05 14:13:10
+7,7,2,2026-11-02,https://campus.edu/submissions/project_report.pdf,43,Graded,2026-11-05 14:13:10
+8,8,10,2026-11-03,https://campus.edu/submissions/project_report.pdf,49,Graded,2026-11-05 14:13:10
+9,9,3,2026-11-04,https://campus.edu/submissions/project_report.pdf,49,Graded,2026-11-05 14:13:10
+10,10,11,2026-11-05,https://campus.edu/submissions/project_report.pdf,40,Graded,2026-11-05 14:13:10
+11,11,3,2026-11-01,https://campus.edu/submissions/project_report.pdf,46,Graded,2026-11-05 14:13:10
+12,12,11,2026-11-02,https://campus.edu/submissions/project_report.pdf,41,Graded,2026-11-05 14:13:10
+13,13,4,2026-11-03,https://campus.edu/submissions/project_report.pdf,46,Graded,2026-11-05 14:13:10
+14,14,12,2026-11-04,https://campus.edu/submissions/project_report.pdf,43,Graded,2026-11-05 14:13:10
+15,15,4,2026-11-05,https://campus.edu/submissions/project_report.pdf,48,Graded,2026-11-05 14:13:10
+16,16,12,2026-11-01,https://campus.edu/submissions/project_report.pdf,46,Graded,2026-11-05 14:13:10
+17,17,5,2026-11-02,https://campus.edu/submissions/project_report.pdf,40,Graded,2026-11-05 14:13:10
+18,18,13,2026-11-03,https://campus.edu/submissions/project_report.pdf,45,Graded,2026-11-05 14:13:10
+19,19,6,2026-11-04,https://campus.edu/submissions/project_report.pdf,46,Graded,2026-11-05 14:13:10
+20,20,14,2026-11-05,https://campus.edu/submissions/project_report.pdf,43,Graded,2026-11-05 14:13:10

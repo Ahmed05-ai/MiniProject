@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "name": "System Super Administrator",
+    "email": "superadmin@campus.edu",
+    "password": "$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i",
+    "role": "super_admin",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 2,
+    "name": "Academic Administrator",
+    "email": "admin@campus.edu",
+    "password": "$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i",
+    "role": "admin",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 3,
+    "name": "Examinations Officer",
+    "email": "exam.admin@campus.edu",
+    "password": "$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i",
+    "role": "admin",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 4,
+    "name": "Registrar Office",
+    "email": "registrar@campus.edu",
+    "password": "$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i",
+    "role": "admin",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Arvind Singhania",
+    "email": "dr.arvind.singhania@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Sunita Sharma",
+    "email": "dr.sunita.sharma@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 7,
+    "name": "Prof. Rajesh Nair",
+    "email": "prof.rajesh.nair@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Vikram Seth",
+    "email": "dr.vikram.seth@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya Desai",
+    "email": "dr.priya.desai@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 10,
+    "name": "Prof. Ananya Sen",
+    "email": "prof.ananya.sen@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Manoj Tiwari",
+    "email": "dr.manoj.tiwari@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Harish Patel",
+    "email": "dr.harish.patel@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 13,
+    "name": "Prof. Suresh Kumar",
+    "email": "prof.suresh.kumar@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Meena Iyer",
+    "email": "dr.meena.iyer@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Ramesh Chandra",
+    "email": "dr.ramesh.chandra@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 16,
+    "name": "Prof. Alok Verma",
+    "email": "prof.alok.verma@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Geeta Pillai",
+    "email": "dr.geeta.pillai@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 18,
+    "name": "Prof. Sanjay Rathore",
+    "email": "prof.sanjay.rathore@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Kavita Menon",
+    "email": "dr.kavita.menon@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 20,
+    "name": "Prof. Deepak Joshi",
+    "email": "prof.deepak.joshi@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 21,
+    "name": "Dr. Sandeep Kulkarni",
+    "email": "dr.sandeep.kulkarni@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 22,
+    "name": "Prof. Ritu Kapoor",
+    "email": "prof.ritu.kapoor@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 23,
+    "name": "Dr. Manish Pandey",
+    "email": "dr.manish.pandey@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 24,
+    "name": "Prof. Swati Mukherjee",
+    "email": "prof.swati.mukherjee@faculty.campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "faculty",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 25,
+    "name": "Rahul Sharma",
+    "email": "rahul@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 26,
+    "name": "Priya Verma",
+    "email": "priya.verma1@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 27,
+    "name": "Aarav Patel",
+    "email": "aarav.patel2@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 28,
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer3@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 29,
+    "name": "Rohan Gupta",
+    "email": "rohan.gupta4@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 30,
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy5@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 31,
+    "name": "Aditya Joshi",
+    "email": "aditya.joshi6@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 32,
+    "name": "Kavya Nair",
+    "email": "kavya.nair7@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 33,
+    "name": "Vikram Singh",
+    "email": "vikram.singh8@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 34,
+    "name": "Neha Deshmukh",
+    "email": "neha.deshmukh9@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 35,
+    "name": "Ishaan Chopra",
+    "email": "ishaan.chopra10@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 36,
+    "name": "Tanvi Malhotra",
+    "email": "tanvi.malhotra11@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 37,
+    "name": "Aryan Bhat",
+    "email": "aryan.bhat12@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 38,
+    "name": "Pooja Rao",
+    "email": "pooja.rao13@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 39,
+    "name": "Dhruv Mukherjee",
+    "email": "dhruv.mukherjee14@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 40,
+    "name": "Riya Mehta",
+    "email": "riya.mehta15@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 41,
+    "name": "Arjun Kulkarni",
+    "email": "arjun.kulkarni16@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 42,
+    "name": "Shreya Kapoor",
+    "email": "shreya.kapoor17@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 43,
+    "name": "Kunal Pandey",
+    "email": "kunal.pandey18@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 44,
+    "name": "Divya Saxena",
+    "email": "divya.saxena19@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 45,
+    "name": "Varun Bose",
+    "email": "varun.bose20@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 46,
+    "name": "Meera Mishra",
+    "email": "meera.mishra21@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 47,
+    "name": "Nikhil Agarwal",
+    "email": "nikhil.agarwal22@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 48,
+    "name": "Simran Chatterjee",
+    "email": "simran.chatterjee23@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 49,
+    "name": "Ayush Dubey",
+    "email": "ayush.dubey24@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 50,
+    "name": "Isha Soni",
+    "email": "isha.soni25@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 51,
+    "name": "Siddharth Tripathi",
+    "email": "siddharth.tripathi26@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 52,
+    "name": "Aditi Trivedi",
+    "email": "aditi.trivedi27@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 53,
+    "name": "Gaurav Yadav",
+    "email": "gaurav.yadav28@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 54,
+    "name": "Bhavna Gowda",
+    "email": "bhavna.gowda29@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 55,
+    "name": "Abhishek Sharma",
+    "email": "abhishek.sharma30@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 56,
+    "name": "Swati Verma",
+    "email": "swati.verma31@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 57,
+    "name": "Harsh Patel",
+    "email": "harsh.patel32@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 58,
+    "name": "Preeti Iyer",
+    "email": "preeti.iyer33@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 59,
+    "name": "Pranav Gupta",
+    "email": "pranav.gupta34@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 60,
+    "name": "Rashmi Reddy",
+    "email": "rashmi.reddy35@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 61,
+    "name": "Karan Joshi",
+    "email": "karan.joshi36@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 62,
+    "name": "Deepika Nair",
+    "email": "deepika.nair37@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 63,
+    "name": "Akash Singh",
+    "email": "akash.singh38@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 64,
+    "name": "Shruti Deshmukh",
+    "email": "shruti.deshmukh39@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 65,
+    "name": "Manish Chopra",
+    "email": "manish.chopra40@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 66,
+    "name": "Komal Malhotra",
+    "email": "komal.malhotra41@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 67,
+    "name": "Mohit Bhat",
+    "email": "mohit.bhat42@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 68,
+    "name": "Pallavi Rao",
+    "email": "pallavi.rao43@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 69,
+    "name": "Yash Mukherjee",
+    "email": "yash.mukherjee44@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 70,
+    "name": "Anjali Mehta",
+    "email": "anjali.mehta45@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 71,
+    "name": "Mayank Kulkarni",
+    "email": "mayank.kulkarni46@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 72,
+    "name": "Ritu Kapoor",
+    "email": "ritu.kapoor47@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 73,
+    "name": "Sourabh Pandey",
+    "email": "sourabh.pandey48@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 74,
+    "name": "Nisha Saxena",
+    "email": "nisha.saxena49@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 75,
+    "name": "Vivek Bose",
+    "email": "vivek.bose50@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 76,
+    "name": "Sakshi Mishra",
+    "email": "sakshi.mishra51@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 77,
+    "name": "Tarun Agarwal",
+    "email": "tarun.agarwal52@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 78,
+    "name": "Vandana Chatterjee",
+    "email": "vandana.chatterjee53@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 79,
+    "name": "Chirag Dubey",
+    "email": "chirag.dubey54@campus.edu",
+    "password": "$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq",
+    "role": "student",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 80,
+    "name": "Chief Accounts Officer",
+    "email": "accounts@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "accountant",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 81,
+    "name": "Finance Executive 1",
+    "email": "fees1@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "accountant",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 82,
+    "name": "Finance Executive 2",
+    "email": "fees2@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "accountant",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 83,
+    "name": "Head Librarian",
+    "email": "librarian@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "librarian",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 84,
+    "name": "Assistant Librarian A",
+    "email": "lib.assistant1@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "librarian",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 85,
+    "name": "Assistant Librarian B",
+    "email": "lib.assistant2@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "librarian",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 86,
+    "name": "Chief Hostel Warden",
+    "email": "warden.chief@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "hostel_warden",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 87,
+    "name": "Boys Hostel Warden",
+    "email": "warden.boys@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "hostel_warden",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 88,
+    "name": "Girls Hostel Warden",
+    "email": "warden.girls@campus.edu",
+    "password": "$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC",
+    "role": "hostel_warden",
+    "is_active": 1,
+    "created_at": "2026-11-05 14:13:07",
+    "updated_at": "2026-11-05 14:13:07"
+  }
+]

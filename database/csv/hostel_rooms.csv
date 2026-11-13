@@ -1,0 +1,16 @@
+id,hostel_name,room_number,floor,capacity,occupied,room_type,created_at
+1,Aryabhata Boys Hostel,101,1,2,1,Non-AC,2026-11-05 14:13:09
+2,Aryabhata Boys Hostel,102,1,2,1,Non-AC,2026-11-05 14:13:09
+3,Aryabhata Boys Hostel,103,1,2,1,AC,2026-11-05 14:13:09
+4,Aryabhata Boys Hostel,201,2,2,1,Non-AC,2026-11-05 14:13:09
+5,Aryabhata Boys Hostel,202,2,2,1,Non-AC,2026-11-05 14:13:09
+6,Aryabhata Boys Hostel,203,2,2,1,AC,2026-11-05 14:13:09
+7,Sarojini Girls Hostel,101,1,2,1,Non-AC,2026-11-05 14:13:09
+8,Sarojini Girls Hostel,102,1,2,1,Non-AC,2026-11-05 14:13:09
+9,Sarojini Girls Hostel,103,1,2,1,AC,2026-11-05 14:13:09
+10,Sarojini Girls Hostel,201,2,2,1,Non-AC,2026-11-05 14:13:09
+11,Sarojini Girls Hostel,202,2,2,1,Non-AC,2026-11-05 14:13:09
+12,C.V. Raman International Hostel,301,3,2,1,Non-AC,2026-11-05 14:13:09
+13,C.V. Raman International Hostel,302,3,2,1,Non-AC,2026-11-05 14:13:09
+14,C.V. Raman International Hostel,303,3,2,1,AC,2026-11-05 14:13:09
+15,C.V. Raman International Hostel,304,3,2,1,AC,2026-11-05 14:13:09

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "isbn": "978-0131103627",
+    "title": "The C Programming Language",
+    "author": "Brian Kernighan & Dennis Ritchie",
+    "category": "Computer Science",
+    "total_copies": 10,
+    "available_copies": 8,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 2,
+    "isbn": "978-0262033848",
+    "title": "Introduction to Algorithms (CLRS)",
+    "author": "Thomas H. Cormen et al.",
+    "category": "Computer Science",
+    "total_copies": 12,
+    "available_copies": 9,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 3,
+    "isbn": "978-0132350884",
+    "title": "Clean Code: A Handbook of Agile Craftsmanship",
+    "author": "Robert C. Martin",
+    "category": "Computer Science",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 4,
+    "isbn": "978-0073523323",
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz et al.",
+    "category": "Computer Science",
+    "total_copies": 10,
+    "available_copies": 7,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 5,
+    "isbn": "978-0133594140",
+    "title": "Operating Systems: Internals & Design",
+    "author": "William Stallings",
+    "category": "Computer Science",
+    "total_copies": 6,
+    "available_copies": 5,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 6,
+    "isbn": "978-0132856201",
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "category": "Computer Science",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 7,
+    "isbn": "978-0262035613",
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio",
+    "category": "AI & Data Science",
+    "total_copies": 6,
+    "available_copies": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 8,
+    "isbn": "978-0134444321",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell & Peter Norvig",
+    "category": "AI & Data Science",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 9,
+    "isbn": "978-0195139051",
+    "title": "Microelectronic Circuits",
+    "author": "Adel S. Sedra & Kenneth C. Smith",
+    "category": "Electronics",
+    "total_copies": 10,
+    "available_copies": 8,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 10,
+    "isbn": "978-0070146143",
+    "title": "Electronic Principles",
+    "author": "Albert Malvino & David Bates",
+    "category": "Electronics",
+    "total_copies": 7,
+    "available_copies": 5,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 11,
+    "isbn": "978-0131850101",
+    "title": "Digital Design: Principles & Practices",
+    "author": "John F. Wakerly",
+    "category": "Electronics",
+    "total_copies": 6,
+    "available_copies": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 12,
+    "isbn": "978-0131424647",
+    "title": "Signals and Systems",
+    "author": "Alan V. Oppenheim",
+    "category": "Electronics",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 13,
+    "isbn": "978-0073398204",
+    "title": "Engineering Mechanics: Statics & Dynamics",
+    "author": "Ferdinand P. Beer et al.",
+    "category": "Mechanical",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 14,
+    "isbn": "978-0073398174",
+    "title": "Thermodynamics: An Engineering Approach",
+    "author": "Yunus A. Cengel & Michael Boles",
+    "category": "Mechanical",
+    "total_copies": 9,
+    "available_copies": 7,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 15,
+    "isbn": "978-0470547557",
+    "title": "Fluid Mechanics",
+    "author": "Frank M. White",
+    "category": "Mechanical",
+    "total_copies": 6,
+    "available_copies": 5,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 16,
+    "isbn": "978-0134056388",
+    "title": "Introduction to Robotics: Mechanics & Control",
+    "author": "John J. Craig",
+    "category": "Mechanical",
+    "total_copies": 5,
+    "available_copies": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 17,
+    "isbn": "978-0134482804",
+    "title": "Structural Analysis",
+    "author": "Russell C. Hibbeler",
+    "category": "Civil",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 18,
+    "isbn": "978-0471216445",
+    "title": "Soil Mechanics and Foundations",
+    "author": "Muni Budhu",
+    "category": "Civil",
+    "total_copies": 6,
+    "available_copies": 5,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 19,
+    "isbn": "978-0070151413",
+    "title": "Surveying (Vol I & II)",
+    "author": "B. C. Punmia",
+    "category": "Civil",
+    "total_copies": 7,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 20,
+    "isbn": "978-0135000045",
+    "title": "Electric Circuits",
+    "author": "James W. Nilsson",
+    "category": "Electrical",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 21,
+    "isbn": "978-0070151437",
+    "title": "Electrical Machines",
+    "author": "I. J. Nagrath & D. P. Kothari",
+    "category": "Electrical",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 22,
+    "isbn": "978-0070144781",
+    "title": "Modern Power System Analysis",
+    "author": "D. P. Kothari & I. J. Nagrath",
+    "category": "Electrical",
+    "total_copies": 6,
+    "available_copies": 5,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 23,
+    "isbn": "978-0470088517",
+    "title": "Control Systems Engineering",
+    "author": "Norman S. Nise",
+    "category": "Electrical",
+    "total_copies": 7,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 24,
+    "isbn": "978-0134685991",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "category": "IT & Software",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 25,
+    "isbn": "978-1491950296",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "category": "IT & Software",
+    "total_copies": 10,
+    "available_copies": 8,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 26,
+    "isbn": "978-0321356680",
+    "title": "Molecular Biology of the Gene",
+    "author": "James D. Watson et al.",
+    "category": "Biotechnology",
+    "total_copies": 6,
+    "available_copies": 5,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 27,
+    "isbn": "978-0130877888",
+    "title": "Bioprocess Engineering Principles",
+    "author": "Pauline M. Doran",
+    "category": "Biotechnology",
+    "total_copies": 5,
+    "available_copies": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 28,
+    "isbn": "978-0134787039",
+    "title": "Management: A Global & Entrepreneurial Perspective",
+    "author": "Harold Koontz & Heinz Weihrich",
+    "category": "Management",
+    "total_copies": 8,
+    "available_copies": 7,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 29,
+    "isbn": "978-0133856460",
+    "title": "Marketing Management",
+    "author": "Philip Kotler & Kevin Lane Keller",
+    "category": "Management",
+    "total_copies": 10,
+    "available_copies": 8,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 30,
+    "isbn": "978-0078034770",
+    "title": "Corporate Finance",
+    "author": "Stephen A. Ross et al.",
+    "category": "Management",
+    "total_copies": 8,
+    "available_copies": 6,
+    "created_at": "2026-11-05 14:13:09"
+  }
+]

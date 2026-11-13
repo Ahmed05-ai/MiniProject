@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "code": "CSE",
+    "name": "Computer Science & Engineering",
+    "description": "Computing, Software Systems, AI & Cybersecurity",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 2,
+    "code": "ECE",
+    "name": "Electronics & Communication",
+    "description": "VLSI, Embedded Systems, IoT & Telecommunication",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 3,
+    "code": "ME",
+    "name": "Mechanical Engineering",
+    "description": "Robotics, Thermal Engineering & Advanced Manufacturing",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 4,
+    "code": "CE",
+    "name": "Civil Engineering",
+    "description": "Structural Engineering, Urban Planning & Smart Infrastructure",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 5,
+    "code": "EE",
+    "name": "Electrical Engineering",
+    "description": "Power Grids, Renewable Energy & Control Systems",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 6,
+    "code": "IT",
+    "name": "Information Technology",
+    "description": "Cloud Computing, Enterprise Networks & Data Engineering",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 7,
+    "code": "BT",
+    "name": "Biotechnology & Bioinformatics",
+    "description": "Genetic Engineering, Bioprocessing & Health Informatics",
+    "created_at": "2026-11-05 14:13:07"
+  },
+  {
+    "id": 8,
+    "code": "MBA",
+    "name": "Management Studies",
+    "description": "Finance, Marketing, Operations & Strategic Management",
+    "created_at": "2026-11-05 14:13:07"
+  }
+]

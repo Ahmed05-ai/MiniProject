@@ -1,0 +1,11 @@
+id,title,description,event_type,start_date,end_date,venue,organizer_id,created_at
+1,Innovate 2026: National Techfest & Hackathon,Flagship university technical symposium with 48-hour national hackathon.,Technical,2026-04-15,2026-04-17,Campus Auditorium & Labs,1,2026-11-05 14:13:10
+2,Spandan 2026: Annual Inter-College Cultural Fest,"Music, drama, fine arts, dance, and celebrity band performances.",Cultural,2026-04-24,2026-04-26,Open Air Amphitheatre,2,2026-11-05 14:13:10
+3,Campus Champions League: Annual Sports Meet,"Track and field athletics, cricket, football, basketball, and badminton tournaments.",Sports,2026-03-10,2026-03-14,University Sports Complex,1,2026-11-05 14:13:10
+4,Global Seminar on Generative AI & Robotics,Keynote talks by leading AI researchers from academia and industry.,Workshop,2026-03-22,2026-03-22,Seminar Hall 1,3,2026-11-05 14:13:10
+5,Alumni Homecoming & Leadership Summit 2026,Distinguished alumni interaction and mentorship sessions for graduating seniors.,Academic,2026-05-02,2026-05-02,Convention Center,1,2026-11-05 14:13:10
+6,Red Cross Mega Blood Donation Drive,Community welfare initiative organized by university student volunteers.,Workshop,2026-03-18,2026-03-18,Health Center Lawn,2,2026-11-05 14:13:10
+7,National Conference on Green Energy Technologies,Peer-reviewed research paper presentations on solar grids and storage systems.,Academic,2026-05-10,2026-05-11,Department of Electrical Engineering,4,2026-11-05 14:13:10
+8,Campus Cyber Defense Workshop & Capture The Flag,"Hands-on ethical hacking, reverse engineering, and threat analysis challenge.",Technical,2026-03-28,2026-03-29,Computer Center Lab 4,1,2026-11-05 14:13:10
+9,Youth Entrepreneurship & Startup Pitch Day,Student startups pitch ideas to venture capitalists and angel investors.,Workshop,2026-04-05,2026-04-05,Incubation & Innovation Hub,3,2026-11-05 14:13:10
+10,World Environment Day Tree Plantation Drive,University-wide environmental awareness and botanical conservation event.,Cultural,2026-06-05,2026-06-05,Campus Eco Park,2,2026-11-05 14:13:10

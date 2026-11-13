@@ -1,0 +1,11 @@
+id,user_id,course_id,faculty_id,rating,comments,created_at
+1,25,1,1,5,Exceptional teaching methodology and clear conceptual explanations.,2026-11-05 14:13:10
+2,26,2,2,5,Very helpful practical problem solving and algorithm analysis.,2026-11-05 14:13:10
+3,27,3,3,4,Great database design assignments and live query walkthroughs.,2026-11-05 14:13:10
+4,28,4,1,5,Network architecture concepts made very easy to comprehend.,2026-11-05 14:13:10
+5,29,5,2,5,"Inspiring lectures on AI, machine learning, and deep neural nets.",2026-11-05 14:13:10
+6,30,7,4,4,Thorough coverage of electronic logic gates and circuits.,2026-11-05 14:13:10
+7,31,11,7,5,Clear mechanical engineering diagrams and numerical guidance.,2026-11-05 14:13:10
+8,32,15,9,4,Practical field surveying exercises were very well organized.,2026-11-05 14:13:10
+9,33,19,11,4,Detailed derivations and good balance of theoretical concepts.,2026-11-05 14:13:10
+10,34,23,13,5,Modern web stack training with React and Express was outstanding.,2026-11-05 14:13:10

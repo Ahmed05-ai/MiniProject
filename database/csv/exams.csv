@@ -1,0 +1,21 @@
+id,course_id,subject_id,title,exam_type,max_marks,exam_date,semester,created_at
+1,1,1,Midterm Examination - Course CS/ENG-1,Midterm,100,2026-04-11,2,2026-11-05 14:13:09
+2,2,2,Final Examination - Course CS/ENG-2,Final,100,2026-04-12,3,2026-11-05 14:13:09
+3,3,3,Quiz Examination - Course CS/ENG-3,Quiz,25,2026-04-13,4,2026-11-05 14:13:09
+4,4,4,Assignment Examination - Course CS/ENG-4,Assignment,50,2026-04-14,1,2026-11-05 14:13:09
+5,5,5,Midterm Examination - Course CS/ENG-5,Midterm,100,2026-04-15,2,2026-11-05 14:13:09
+6,6,6,Final Examination - Course CS/ENG-6,Final,100,2026-04-16,3,2026-11-05 14:13:09
+7,7,7,Quiz Examination - Course CS/ENG-7,Quiz,25,2026-04-17,4,2026-11-05 14:13:09
+8,8,8,Assignment Examination - Course CS/ENG-8,Assignment,50,2026-04-18,1,2026-11-05 14:13:09
+9,9,9,Midterm Examination - Course CS/ENG-9,Midterm,100,2026-04-19,2,2026-11-05 14:13:09
+10,10,10,Final Examination - Course CS/ENG-10,Final,100,2026-04-20,3,2026-11-05 14:13:09
+11,11,11,Quiz Examination - Course CS/ENG-11,Quiz,25,2026-04-21,4,2026-11-05 14:13:09
+12,12,12,Assignment Examination - Course CS/ENG-12,Assignment,50,2026-04-22,1,2026-11-05 14:13:09
+13,13,13,Midterm Examination - Course CS/ENG-13,Midterm,100,2026-04-23,2,2026-11-05 14:13:09
+14,14,14,Final Examination - Course CS/ENG-14,Final,100,2026-04-24,3,2026-11-05 14:13:09
+15,15,15,Quiz Examination - Course CS/ENG-15,Quiz,25,2026-04-25,4,2026-11-05 14:13:09
+16,1,16,Assignment Examination - Course CS/ENG-1,Assignment,50,2026-04-26,1,2026-11-05 14:13:09
+17,2,17,Midterm Examination - Course CS/ENG-2,Midterm,100,2026-04-27,2,2026-11-05 14:13:09
+18,3,18,Final Examination - Course CS/ENG-3,Final,100,2026-04-28,3,2026-11-05 14:13:09
+19,4,19,Quiz Examination - Course CS/ENG-4,Quiz,25,2026-04-29,4,2026-11-05 14:13:09
+20,5,20,Assignment Examination - Course CS/ENG-5,Assignment,50,2026-04-10,1,2026-11-05 14:13:09

@@ -1,0 +1,16 @@
+id,company_name,job_role,package_lpa,drive_date,student_id,status,created_at
+1,Google India,Software Development Engineer,32.5,2026-02-15,41,Selected,2026-11-05 14:13:10
+2,Microsoft IDC,Cloud Solution Engineer,28,2026-02-15,42,Selected,2026-11-05 14:13:10
+3,Amazon AWS,Support Engineer / DevOps,22,2026-02-15,43,Selected,2026-11-05 14:13:10
+4,Deloitte USI,Technology Consultant,12.5,2026-02-15,44,Selected,2026-11-05 14:13:10
+5,Tata Consultancy Services,Systems Engineer,7.2,2026-02-15,45,Selected,2026-11-05 14:13:10
+6,Infosys Limited,Specialist Programmer,9.5,2026-02-15,46,Selected,2026-11-05 14:13:10
+7,Wipro Technologies,Project Engineer,6.5,2026-02-15,47,Selected,2026-11-05 14:13:10
+8,Larsen & Toubro (L&T),Graduate Engineer Trainee,8,2026-02-15,48,Selected,2026-11-05 14:13:10
+9,Tata Motors,Automotive Design Engineer,8.5,2026-02-15,49,Selected,2026-11-05 14:13:10
+10,HDFC Bank,Financial Analyst (Tech),10,2026-02-15,50,Selected,2026-11-05 14:13:10
+11,Oracle India,Database Associate,16,2026-02-15,51,Selected,2026-11-05 14:13:10
+12,Cisco Systems,Network Software Engineer,18.5,2026-02-15,52,Selected,2026-11-05 14:13:10
+13,Qualcomm India,Hardware Design Engineer,20,2026-02-15,53,Selected,2026-11-05 14:13:10
+14,Biocon Biologics,Bioprocess Research Associate,7.5,2026-02-15,54,Selected,2026-11-05 14:13:10
+15,Maruti Suzuki,Robotics Integration Specialist,8.2,2026-02-15,55,Selected,2026-11-05 14:13:10

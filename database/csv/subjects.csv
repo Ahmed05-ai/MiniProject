@@ -1,0 +1,36 @@
+id,code,name,credits,course_id,department_id,faculty_id,semester,created_at
+1,SUB-CS101,Computer Programming Laboratory,2,1,1,1,1,2026-11-05 14:13:08
+2,SUB-CS102,Discrete Mathematical Structures,4,1,1,2,1,2026-11-05 14:13:08
+3,SUB-CS103,Object-Oriented Programming (Java),4,2,1,3,2,2026-11-05 14:13:08
+4,SUB-CS104,Data Structures Lab,2,2,1,2,2,2026-11-05 14:13:08
+5,SUB-CS201,Relational Database Design,3,3,1,3,3,2026-11-05 14:13:08
+6,SUB-CS202,DBMS Practice & SQL Lab,2,3,1,1,3,2026-11-05 14:13:08
+7,SUB-CS203,Operating System Internals,4,4,1,2,4,2026-11-05 14:13:08
+8,SUB-CS204,Cryptography & Network Security,3,4,1,3,4,2026-11-05 14:13:08
+9,SUB-CS301,Deep Learning & Neural Networks,4,5,1,19,5,2026-11-05 14:13:08
+10,SUB-CS302,Natural Language Processing,3,5,1,2,5,2026-11-05 14:13:08
+11,SUB-EC101,Analog Circuit Analysis,4,7,2,4,1,2026-11-05 14:13:08
+12,SUB-EC102,Digital Logic Lab,2,7,2,5,1,2026-11-05 14:13:08
+13,SUB-EC201,Embedded C & ARM Processors,4,9,2,6,3,2026-11-05 14:13:08
+14,SUB-EC202,IoT Systems & Sensors Lab,2,9,2,20,3,2026-11-05 14:13:08
+15,SUB-EC301,FPGA Prototyping & Verilog,4,10,2,4,5,2026-11-05 14:13:08
+16,SUB-ME101,Engineering Drawing & CAD,3,11,3,7,1,2026-11-05 14:13:08
+17,SUB-ME102,Workshop Manufacturing Practice,2,11,3,8,1,2026-11-05 14:13:08
+18,SUB-ME201,Kinematics & Dynamics of Machines,4,13,3,7,3,2026-11-05 14:13:08
+19,SUB-ME301,Industrial Robotics & Mechatronics,4,14,3,8,5,2026-11-05 14:13:08
+20,SUB-CE101,Building Materials & Construction,3,15,4,9,1,2026-11-05 14:13:08
+21,SUB-CE201,Geotechnical Soil Mechanics,4,17,4,10,3,2026-11-05 14:13:08
+22,SUB-CE301,Hydrology & Water Resources,3,18,4,9,5,2026-11-05 14:13:08
+23,SUB-EE101,Network Analysis & Synthesis,4,19,5,11,1,2026-11-05 14:13:08
+24,SUB-EE201,Power Transmission & Distribution,4,21,5,12,3,2026-11-05 14:13:08
+25,SUB-EE301,Renewable Solar & Wind Systems,3,22,5,11,5,2026-11-05 14:13:08
+26,SUB-IT101,Frontend Architecture with React,4,23,6,13,1,2026-11-05 14:13:08
+27,SUB-IT102,Full-Stack Node.js & REST APIs,4,23,6,14,1,2026-11-05 14:13:08
+28,SUB-IT201,Ethical Hacking & Penetration Testing,3,24,6,13,3,2026-11-05 14:13:08
+29,SUB-IT301,Distributed Systems & Spark,4,25,6,14,5,2026-11-05 14:13:08
+30,SUB-BT101,Biochemistry & Molecular Biology,4,26,7,15,1,2026-11-05 14:13:08
+31,SUB-BT201,Immunology & Diagnostics,3,27,7,16,3,2026-11-05 14:13:08
+32,SUB-BT301,Genomics & Proteomics,4,28,7,15,5,2026-11-05 14:13:08
+33,SUB-MB101,Managerial Economics,3,29,8,17,1,2026-11-05 14:13:08
+34,SUB-MB102,Marketing Management & Digital Strategy,4,29,8,18,1,2026-11-05 14:13:08
+35,SUB-MB201,Corporate Finance & Investment,4,30,8,17,3,2026-11-05 14:13:08

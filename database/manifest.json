@@ -1,0 +1,177 @@
+{
+  "generated_at": "2026-11-05T14:13:10.242Z",
+  "total_records": 1000,
+  "total_tables": 28,
+  "modules": {
+    "departments": 8,
+    "users": 88,
+    "faculty": 20,
+    "courses": 30,
+    "students": 55,
+    "subjects": 35,
+    "enrollments": 165,
+    "attendance": 155,
+    "exams": 20,
+    "results": 68,
+    "fee_invoices": 55,
+    "fee_payments": 40,
+    "timetable": 25,
+    "notices": 12,
+    "library_books": 30,
+    "library_issues": 25,
+    "hostel_rooms": 15,
+    "hostel_allocations": 20,
+    "transport_routes": 6,
+    "transport_allocations": 18,
+    "assignments": 20,
+    "assignment_submissions": 20,
+    "events": 10,
+    "placements": 15,
+    "internships": 10,
+    "leaves": 15,
+    "complaints": 10,
+    "feedback": 10
+  },
+  "files": {
+    "departments": {
+      "records": 8,
+      "json": "database/json/departments.json",
+      "csv": "database/csv/departments.csv"
+    },
+    "users": {
+      "records": 88,
+      "json": "database/json/users.json",
+      "csv": "database/csv/users.csv"
+    },
+    "faculty": {
+      "records": 20,
+      "json": "database/json/faculty.json",
+      "csv": "database/csv/faculty.csv"
+    },
+    "courses": {
+      "records": 30,
+      "json": "database/json/courses.json",
+      "csv": "database/csv/courses.csv"
+    },
+    "students": {
+      "records": 55,
+      "json": "database/json/students.json",
+      "csv": "database/csv/students.csv"
+    },
+    "subjects": {
+      "records": 35,
+      "json": "database/json/subjects.json",
+      "csv": "database/csv/subjects.csv"
+    },
+    "enrollments": {
+      "records": 165,
+      "json": "database/json/enrollments.json",
+      "csv": "database/csv/enrollments.csv"
+    },
+    "attendance": {
+      "records": 155,
+      "json": "database/json/attendance.json",
+      "csv": "database/csv/attendance.csv"
+    },
+    "exams": {
+      "records": 20,
+      "json": "database/json/exams.json",
+      "csv": "database/csv/exams.csv"
+    },
+    "results": {
+      "records": 68,
+      "json": "database/json/results.json",
+      "csv": "database/csv/results.csv"
+    },
+    "fee_invoices": {
+      "records": 55,
+      "json": "database/json/fee_invoices.json",
+      "csv": "database/csv/fee_invoices.csv"
+    },
+    "fee_payments": {
+      "records": 40,
+      "json": "database/json/fee_payments.json",
+      "csv": "database/csv/fee_payments.csv"
+    },
+    "timetable": {
+      "records": 25,
+      "json": "database/json/timetable.json",
+      "csv": "database/csv/timetable.csv"
+    },
+    "notices": {
+      "records": 12,
+      "json": "database/json/notices.json",
+      "csv": "database/csv/notices.csv"
+    },
+    "library_books": {
+      "records": 30,
+      "json": "database/json/library_books.json",
+      "csv": "database/csv/library_books.csv"
+    },
+    "library_issues": {
+      "records": 25,
+      "json": "database/json/library_issues.json",
+      "csv": "database/csv/library_issues.csv"
+    },
+    "hostel_rooms": {
+      "records": 15,
+      "json": "database/json/hostel_rooms.json",
+      "csv": "database/csv/hostel_rooms.csv"
+    },
+    "hostel_allocations": {
+      "records": 20,
+      "json": "database/json/hostel_allocations.json",
+      "csv": "database/csv/hostel_allocations.csv"
+    },
+    "transport_routes": {
+      "records": 6,
+      "json": "database/json/transport_routes.json",
+      "csv": "database/csv/transport_routes.csv"
+    },
+    "transport_allocations": {
+      "records": 18,
+      "json": "database/json/transport_allocations.json",
+      "csv": "database/csv/transport_allocations.csv"
+    },
+    "assignments": {
+      "records": 20,
+      "json": "database/json/assignments.json",
+      "csv": "database/csv/assignments.csv"
+    },
+    "assignment_submissions": {
+      "records": 20,
+      "json": "database/json/assignment_submissions.json",
+      "csv": "database/csv/assignment_submissions.csv"
+    },
+    "events": {
+      "records": 10,
+      "json": "database/json/events.json",
+      "csv": "database/csv/events.csv"
+    },
+    "placements": {
+      "records": 15,
+      "json": "database/json/placements.json",
+      "csv": "database/csv/placements.csv"
+    },
+    "internships": {
+      "records": 10,
+      "json": "database/json/internships.json",
+      "csv": "database/csv/internships.csv"
+    },
+    "leaves": {
+      "records": 15,
+      "json": "database/json/leaves.json",
+      "csv": "database/csv/leaves.csv"
+    },
+    "complaints": {
+      "records": 10,
+      "json": "database/json/complaints.json",
+      "csv": "database/csv/complaints.csv"
+    },
+    "feedback": {
+      "records": 10,
+      "json": "database/json/feedback.json",
+      "csv": "database/csv/feedback.csv"
+    }
+  }
+}

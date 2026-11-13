@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "course_id": 1,
+    "subject_id": 1,
+    "title": "Midterm Examination - Course CS/ENG-1",
+    "exam_type": "Midterm",
+    "max_marks": 100,
+    "exam_date": "2026-04-11",
+    "semester": 2,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 2,
+    "course_id": 2,
+    "subject_id": 2,
+    "title": "Final Examination - Course CS/ENG-2",
+    "exam_type": "Final",
+    "max_marks": 100,
+    "exam_date": "2026-04-12",
+    "semester": 3,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 3,
+    "course_id": 3,
+    "subject_id": 3,
+    "title": "Quiz Examination - Course CS/ENG-3",
+    "exam_type": "Quiz",
+    "max_marks": 25,
+    "exam_date": "2026-04-13",
+    "semester": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 4,
+    "course_id": 4,
+    "subject_id": 4,
+    "title": "Assignment Examination - Course CS/ENG-4",
+    "exam_type": "Assignment",
+    "max_marks": 50,
+    "exam_date": "2026-04-14",
+    "semester": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 5,
+    "course_id": 5,
+    "subject_id": 5,
+    "title": "Midterm Examination - Course CS/ENG-5",
+    "exam_type": "Midterm",
+    "max_marks": 100,
+    "exam_date": "2026-04-15",
+    "semester": 2,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 6,
+    "course_id": 6,
+    "subject_id": 6,
+    "title": "Final Examination - Course CS/ENG-6",
+    "exam_type": "Final",
+    "max_marks": 100,
+    "exam_date": "2026-04-16",
+    "semester": 3,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 7,
+    "course_id": 7,
+    "subject_id": 7,
+    "title": "Quiz Examination - Course CS/ENG-7",
+    "exam_type": "Quiz",
+    "max_marks": 25,
+    "exam_date": "2026-04-17",
+    "semester": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 8,
+    "course_id": 8,
+    "subject_id": 8,
+    "title": "Assignment Examination - Course CS/ENG-8",
+    "exam_type": "Assignment",
+    "max_marks": 50,
+    "exam_date": "2026-04-18",
+    "semester": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 9,
+    "course_id": 9,
+    "subject_id": 9,
+    "title": "Midterm Examination - Course CS/ENG-9",
+    "exam_type": "Midterm",
+    "max_marks": 100,
+    "exam_date": "2026-04-19",
+    "semester": 2,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 10,
+    "course_id": 10,
+    "subject_id": 10,
+    "title": "Final Examination - Course CS/ENG-10",
+    "exam_type": "Final",
+    "max_marks": 100,
+    "exam_date": "2026-04-20",
+    "semester": 3,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 11,
+    "course_id": 11,
+    "subject_id": 11,
+    "title": "Quiz Examination - Course CS/ENG-11",
+    "exam_type": "Quiz",
+    "max_marks": 25,
+    "exam_date": "2026-04-21",
+    "semester": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 12,
+    "course_id": 12,
+    "subject_id": 12,
+    "title": "Assignment Examination - Course CS/ENG-12",
+    "exam_type": "Assignment",
+    "max_marks": 50,
+    "exam_date": "2026-04-22",
+    "semester": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 13,
+    "course_id": 13,
+    "subject_id": 13,
+    "title": "Midterm Examination - Course CS/ENG-13",
+    "exam_type": "Midterm",
+    "max_marks": 100,
+    "exam_date": "2026-04-23",
+    "semester": 2,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 14,
+    "course_id": 14,
+    "subject_id": 14,
+    "title": "Final Examination - Course CS/ENG-14",
+    "exam_type": "Final",
+    "max_marks": 100,
+    "exam_date": "2026-04-24",
+    "semester": 3,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 15,
+    "course_id": 15,
+    "subject_id": 15,
+    "title": "Quiz Examination - Course CS/ENG-15",
+    "exam_type": "Quiz",
+    "max_marks": 25,
+    "exam_date": "2026-04-25",
+    "semester": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 16,
+    "course_id": 1,
+    "subject_id": 16,
+    "title": "Assignment Examination - Course CS/ENG-1",
+    "exam_type": "Assignment",
+    "max_marks": 50,
+    "exam_date": "2026-04-26",
+    "semester": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 17,
+    "course_id": 2,
+    "subject_id": 17,
+    "title": "Midterm Examination - Course CS/ENG-2",
+    "exam_type": "Midterm",
+    "max_marks": 100,
+    "exam_date": "2026-04-27",
+    "semester": 2,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 18,
+    "course_id": 3,
+    "subject_id": 18,
+    "title": "Final Examination - Course CS/ENG-3",
+    "exam_type": "Final",
+    "max_marks": 100,
+    "exam_date": "2026-04-28",
+    "semester": 3,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 19,
+    "course_id": 4,
+    "subject_id": 19,
+    "title": "Quiz Examination - Course CS/ENG-4",
+    "exam_type": "Quiz",
+    "max_marks": 25,
+    "exam_date": "2026-04-29",
+    "semester": 4,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 20,
+    "course_id": 5,
+    "subject_id": 20,
+    "title": "Assignment Examination - Course CS/ENG-5",
+    "exam_type": "Assignment",
+    "max_marks": 50,
+    "exam_date": "2026-04-10",
+    "semester": 1,
+    "created_at": "2026-11-05 14:13:09"
+  }
+]

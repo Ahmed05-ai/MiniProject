@@ -1,0 +1,21 @@
+id,title,description,course_id,subject_id,faculty_id,due_date,max_marks,created_at
+1,Programming in C - Dynamic Memory Allocation & File Indexer,"Implement multi-threaded text file indexing system using pointers, malloc/free, and binary search.",1,1,1,2026-11-18,50,2026-11-05 14:13:09
+2,DSA - Red-Black Tree Implementation & Benchmark,Construct self-balancing search tree with left/right rotations and benchmark performance against AVL trees.,2,3,2,2026-11-22,50,2026-11-05 14:13:10
+3,DBMS - University ERP Relational Schema & 3NF Normalization,"Design entity-relationship diagrams, write complex nested SQL joins, and optimize B-Tree index queries.",3,5,3,2026-11-26,50,2026-11-05 14:13:10
+4,Computer Networks - Multi-Threaded TCP Socket Server,Build client-server socket architecture with sliding window flow control and packet header inspection.,4,7,1,2026-11-30,50,2026-11-05 14:13:10
+5,Digital Electronics - 4-Bit ALU Design in Verilog,"Synthesize arithmetic and logic unit performing 8 operations using multiplexers, full adders, and status flags.",7,11,4,2026-11-18,50,2026-11-05 14:13:10
+6,Signals & Systems - Fourier Transform & Convolution Simulation,Compute continuous and discrete-time convolution integrals and analyze frequency response of low-pass filters.,7,12,5,2026-11-22,50,2026-11-05 14:13:10
+7,Embedded Systems - ARM Cortex-M Traffic Controller Firmware,Develop bare-metal C timer interrupt routines and GPIO drivers for a 4-way intelligent intersection controller.,9,13,6,2026-11-26,50,2026-11-05 14:13:10
+8,VLSI Design - CMOS Inverter Stick Diagram & Delay Modeling,Design DRC/LVS clean stick diagram and transient SPICE timing analysis for sub-micron CMOS inverter standard cell.,10,15,4,2026-11-30,50,2026-11-05 14:13:10
+9,Engineering Mechanics - Truss Equilibrium & Load Analysis,Analyze 2D pin-jointed bridge truss using method of joints and method of sections. Plot internal stress distribution.,11,16,7,2026-11-18,50,2026-11-05 14:13:10
+10,Thermodynamics - Rankine Steam Power Cycle Simulation,"Calculate thermal efficiency and steam quality across boiler, turbine, and condenser stages for a 500MW thermal plant.",11,17,8,2026-11-22,50,2026-11-05 14:13:10
+11,Fluid Mechanics - Pipe Network Head Loss Calculation,Determine friction factor using Darcy-Weisbach equation and Moody chart for laminar and turbulent Reynolds numbers.,13,18,7,2026-11-26,50,2026-11-05 14:13:10
+12,Robotics - Forward Kinematics & DH Parameter Modeling,Formulate Denavit-Hartenberg transformation matrices for 6-DOF industrial robotic arm and simulate end-effector trajectory.,14,19,8,2026-11-30,50,2026-11-05 14:13:10
+13,Surveying & Geomatics - Total Station Traverse Mapping,"Perform closed loop traverse computation, apply Bowditch balancing rule, and draft contour elevation profiles.",15,20,9,2026-11-18,50,2026-11-05 14:13:10
+14,Structural Analysis - Bending Moment & Shear Force Diagram,Evaluate cantilever and continuous beams under uniformly distributed and point loads using moment distribution method.,15,20,10,2026-11-22,50,2026-11-05 14:13:10
+15,Concrete Technology - M30 Mix Design & Compressive Strength,Design concrete mix proportioning per IS 10262 standards and verify 28-day cube curing compressive strength results.,17,21,9,2026-11-26,50,2026-11-05 14:13:10
+16,Environmental Engg - Water Treatment Plant Hydraulic Sizing,"Design rapid sand filter beds, sedimentation basins, and chemical coagulation dosing for 20 MLD urban water supply.",18,22,10,2026-11-30,50,2026-11-05 14:13:10
+17,Network Analysis - Thevenin & Norton Equivalent Circuits,Solve complex AC mesh circuits with coupled inductors and compute maximum power transfer conditions.,19,23,11,2026-11-18,50,2026-11-05 14:13:10
+18,Electrical Machines - Three-Phase Induction Motor Torque-Slip,Perform blocked-rotor and no-load laboratory tests to extract equivalent circuit parameters and starting torque.,21,24,12,2026-11-24,50,2026-11-05 14:13:10
+19,Web Application Development - Microservices REST API with JWT,Build responsive single-page web app with secure role-based session middleware and database transactions.,23,26,13,2026-11-20,50,2026-11-05 14:13:10
+20,Cyber Security - RSA Cryptographic Engine & Packet Penetration,"Implement asymmetric key generation, prime factorization verification, and vulnerability scanning.",24,28,14,2026-11-28,50,2026-11-05 14:13:10

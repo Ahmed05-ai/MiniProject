@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Academic Calendar Spring 2026 Released",
+    "content": "The university senate has officially published the Spring 2026 academic calendar. Midterms begin April 10.",
+    "published_by": "Administration Office",
+    "author_user_id": 1,
+    "category": "Academic",
+    "publish_date": "2026-01-10",
+    "is_pinned": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 2,
+    "title": "Midterm Examination Schedule & Seating Plan",
+    "content": "All students are advised to check the examination portal for individual hall tickets and assigned seating halls.",
+    "published_by": "Administration Office",
+    "author_user_id": 2,
+    "category": "Academic",
+    "publish_date": "2026-03-01",
+    "is_pinned": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 3,
+    "title": "Annual Techfest - Innovate 2026 Call for Entries",
+    "content": "Registrations are now live for hackathons, robotics challenges, and paper presentations at Innovate 2026.",
+    "published_by": "Administration Office",
+    "author_user_id": 1,
+    "category": "Event",
+    "publish_date": "2026-02-15",
+    "is_pinned": 1,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 4,
+    "title": "Campus Placement Drive: Google India & Microsoft",
+    "content": "Final year and pre-final year students eligible for cloud engineering profiles are requested to upload resumes.",
+    "published_by": "Administration Office",
+    "author_user_id": 3,
+    "category": "Placement",
+    "publish_date": "2026-02-20",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 5,
+    "title": "Library Extended Hours During Examination Week",
+    "content": "The central digital library will remain open 24x7 starting next Monday to facilitate exam revision.",
+    "published_by": "Administration Office",
+    "author_user_id": 1,
+    "category": "Library",
+    "publish_date": "2026-03-05",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 6,
+    "title": "Fee Payment Deadline for Semester 2",
+    "content": "Late fee charges of ₹500 will apply to tuition payments received after May 15, 2026.",
+    "published_by": "Administration Office",
+    "author_user_id": 1,
+    "category": "Fees",
+    "publish_date": "2026-02-28",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 7,
+    "title": "Hostel Maintenance & Wi-Fi Upgrade Notice",
+    "content": "High-speed Wi-Fi 6 access points are being configured across Aryabhata and Sarojini hostels.",
+    "published_by": "Administration Office",
+    "author_user_id": 4,
+    "category": "Hostel",
+    "publish_date": "2026-02-12",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 8,
+    "title": "Inter-Departmental Cricket & Football Tournament",
+    "content": "Teams are invited to register at the student sports council office by February 25.",
+    "published_by": "Administration Office",
+    "author_user_id": 1,
+    "category": "Sports",
+    "publish_date": "2026-02-18",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 9,
+    "title": "Workshop on Generative AI & Cloud Kubernetes",
+    "content": "Hands-on practical session hosted by Department of Computer Science & Engineering.",
+    "published_by": "Administration Office",
+    "author_user_id": 2,
+    "category": "Workshop",
+    "publish_date": "2026-02-22",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 10,
+    "title": "Bus Route R-04 Timing Revision Notice",
+    "content": "Morning departure from Noida Sector 62 is preponed by 15 minutes due to expressway roadwork.",
+    "published_by": "Administration Office",
+    "author_user_id": 4,
+    "category": "Transport",
+    "publish_date": "2026-02-25",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 11,
+    "title": "Blood Donation & Free Medical Checkup Camp",
+    "content": "Organized jointly with Red Cross Society at the Campus Health Center.",
+    "published_by": "Administration Office",
+    "author_user_id": 1,
+    "category": "Event",
+    "publish_date": "2026-03-02",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 12,
+    "title": "Summer Internship Applications Guidelines",
+    "content": "Corporate internship guidelines for 2nd and 3rd year students are now available on the portal.",
+    "published_by": "Administration Office",
+    "author_user_id": 3,
+    "category": "Placement",
+    "publish_date": "2026-03-04",
+    "is_pinned": 0,
+    "created_at": "2026-11-05 14:13:09"
+  }
+]

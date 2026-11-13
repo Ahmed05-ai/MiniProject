@@ -1,0 +1,162 @@
+{
+  "timestamp": "2026-11-04T18:39:36.510Z",
+  "database": "C:\\Users\\ahmed\\OneDrive\\Desktop\\mini project\\database\\smart_campus.sqlite",
+  "summary": {
+    "total_tables_checked": 28,
+    "total_records": 1000,
+    "valid_records": 1000,
+    "invalid_records": 0,
+    "duplicate_records": 0,
+    "broken_relationships": 0,
+    "missing_mandatory_fields": 0,
+    "integrity_score": "100.0%"
+  },
+  "checks": {
+    "foreign_key_integrity": {
+      "passed": true,
+      "errors": [],
+      "description": "Zero orphan records across all 28 relational tables"
+    },
+    "uniqueness": {
+      "duplicate_enrollments": 0,
+      "duplicate_user_emails": 0,
+      "duplicate_student_emails": 0,
+      "passed": true
+    },
+    "mandatory_fields": {
+      "missing_count": 0,
+      "passed": true
+    },
+    "semester_validity": {
+      "invalid_count": 0,
+      "passed": true
+    },
+    "marks_validity": {
+      "invalid_count": 0,
+      "passed": true
+    },
+    "payment_amounts": {
+      "invalid_count": 0,
+      "passed": true
+    },
+    "file_parity": {
+      "mismatched_files": 0,
+      "passed": true
+    }
+  },
+  "tables": {
+    "departments": {
+      "records": 8,
+      "status": "OK"
+    },
+    "users": {
+      "records": 88,
+      "status": "OK"
+    },
+    "faculty": {
+      "records": 20,
+      "status": "OK"
+    },
+    "courses": {
+      "records": 30,
+      "status": "OK"
+    },
+    "students": {
+      "records": 55,
+      "status": "OK"
+    },
+    "subjects": {
+      "records": 35,
+      "status": "OK"
+    },
+    "enrollments": {
+      "records": 165,
+      "status": "OK"
+    },
+    "attendance": {
+      "records": 155,
+      "status": "OK"
+    },
+    "exams": {
+      "records": 20,
+      "status": "OK"
+    },
+    "results": {
+      "records": 68,
+      "status": "OK"
+    },
+    "fee_invoices": {
+      "records": 55,
+      "status": "OK"
+    },
+    "fee_payments": {
+      "records": 40,
+      "status": "OK"
+    },
+    "timetable": {
+      "records": 25,
+      "status": "OK"
+    },
+    "notices": {
+      "records": 12,
+      "status": "OK"
+    },
+    "library_books": {
+      "records": 30,
+      "status": "OK"
+    },
+    "library_issues": {
+      "records": 25,
+      "status": "OK"
+    },
+    "hostel_rooms": {
+      "records": 15,
+      "status": "OK"
+    },
+    "hostel_allocations": {
+      "records": 20,
+      "status": "OK"
+    },
+    "transport_routes": {
+      "records": 6,
+      "status": "OK"
+    },
+    "transport_allocations": {
+      "records": 18,
+      "status": "OK"
+    },
+    "assignments": {
+      "records": 20,
+      "status": "OK"
+    },
+    "assignment_submissions": {
+      "records": 20,
+      "status": "OK"
+    },
+    "events": {
+      "records": 10,
+      "status": "OK"
+    },
+    "placements": {
+      "records": 15,
+      "status": "OK"
+    },
+    "internships": {
+      "records": 10,
+      "status": "OK"
+    },
+    "leaves": {
+      "records": 15,
+      "status": "OK"
+    },
+    "complaints": {
+      "records": 10,
+      "status": "OK"
+    },
+    "feedback": {
+      "records": 10,
+      "status": "OK"
+    }
+  },
+  "status": "PASSED (100% VALID - ZERO DEFECTS)"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Innovate 2026: National Techfest & Hackathon",
+    "description": "Flagship university technical symposium with 48-hour national hackathon.",
+    "event_type": "Technical",
+    "start_date": "2026-04-15",
+    "end_date": "2026-04-17",
+    "venue": "Campus Auditorium & Labs",
+    "organizer_id": 1,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 2,
+    "title": "Spandan 2026: Annual Inter-College Cultural Fest",
+    "description": "Music, drama, fine arts, dance, and celebrity band performances.",
+    "event_type": "Cultural",
+    "start_date": "2026-04-24",
+    "end_date": "2026-04-26",
+    "venue": "Open Air Amphitheatre",
+    "organizer_id": 2,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "title": "Campus Champions League: Annual Sports Meet",
+    "description": "Track and field athletics, cricket, football, basketball, and badminton tournaments.",
+    "event_type": "Sports",
+    "start_date": "2026-03-10",
+    "end_date": "2026-03-14",
+    "venue": "University Sports Complex",
+    "organizer_id": 1,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "title": "Global Seminar on Generative AI & Robotics",
+    "description": "Keynote talks by leading AI researchers from academia and industry.",
+    "event_type": "Workshop",
+    "start_date": "2026-03-22",
+    "end_date": "2026-03-22",
+    "venue": "Seminar Hall 1",
+    "organizer_id": 3,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "title": "Alumni Homecoming & Leadership Summit 2026",
+    "description": "Distinguished alumni interaction and mentorship sessions for graduating seniors.",
+    "event_type": "Academic",
+    "start_date": "2026-05-02",
+    "end_date": "2026-05-02",
+    "venue": "Convention Center",
+    "organizer_id": 1,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "title": "Red Cross Mega Blood Donation Drive",
+    "description": "Community welfare initiative organized by university student volunteers.",
+    "event_type": "Workshop",
+    "start_date": "2026-03-18",
+    "end_date": "2026-03-18",
+    "venue": "Health Center Lawn",
+    "organizer_id": 2,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "title": "National Conference on Green Energy Technologies",
+    "description": "Peer-reviewed research paper presentations on solar grids and storage systems.",
+    "event_type": "Academic",
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-11",
+    "venue": "Department of Electrical Engineering",
+    "organizer_id": 4,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "title": "Campus Cyber Defense Workshop & Capture The Flag",
+    "description": "Hands-on ethical hacking, reverse engineering, and threat analysis challenge.",
+    "event_type": "Technical",
+    "start_date": "2026-03-28",
+    "end_date": "2026-03-29",
+    "venue": "Computer Center Lab 4",
+    "organizer_id": 1,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "title": "Youth Entrepreneurship & Startup Pitch Day",
+    "description": "Student startups pitch ideas to venture capitalists and angel investors.",
+    "event_type": "Workshop",
+    "start_date": "2026-04-05",
+    "end_date": "2026-04-05",
+    "venue": "Incubation & Innovation Hub",
+    "organizer_id": 3,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "title": "World Environment Day Tree Plantation Drive",
+    "description": "University-wide environmental awareness and botanical conservation event.",
+    "event_type": "Cultural",
+    "start_date": "2026-06-05",
+    "end_date": "2026-06-05",
+    "venue": "Campus Eco Park",
+    "organizer_id": 2,
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

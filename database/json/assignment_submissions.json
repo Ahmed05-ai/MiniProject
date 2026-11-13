@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "assignment_id": 1,
+    "student_id": 1,
+    "submission_date": "2026-11-01",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 41,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 2,
+    "assignment_id": 2,
+    "student_id": 9,
+    "submission_date": "2026-11-02",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 45,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "assignment_id": 3,
+    "student_id": 1,
+    "submission_date": "2026-11-03",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 40,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "assignment_id": 4,
+    "student_id": 9,
+    "submission_date": "2026-11-04",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 48,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "assignment_id": 5,
+    "student_id": 2,
+    "submission_date": "2026-11-05",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 43,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "assignment_id": 6,
+    "student_id": 10,
+    "submission_date": "2026-11-01",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 44,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "assignment_id": 7,
+    "student_id": 2,
+    "submission_date": "2026-11-02",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 43,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "assignment_id": 8,
+    "student_id": 10,
+    "submission_date": "2026-11-03",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 49,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "assignment_id": 9,
+    "student_id": 3,
+    "submission_date": "2026-11-04",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 49,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "assignment_id": 10,
+    "student_id": 11,
+    "submission_date": "2026-11-05",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 40,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 11,
+    "assignment_id": 11,
+    "student_id": 3,
+    "submission_date": "2026-11-01",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 46,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 12,
+    "assignment_id": 12,
+    "student_id": 11,
+    "submission_date": "2026-11-02",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 41,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 13,
+    "assignment_id": 13,
+    "student_id": 4,
+    "submission_date": "2026-11-03",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 46,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 14,
+    "assignment_id": 14,
+    "student_id": 12,
+    "submission_date": "2026-11-04",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 43,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 15,
+    "assignment_id": 15,
+    "student_id": 4,
+    "submission_date": "2026-11-05",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 48,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 16,
+    "assignment_id": 16,
+    "student_id": 12,
+    "submission_date": "2026-11-01",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 46,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 17,
+    "assignment_id": 17,
+    "student_id": 5,
+    "submission_date": "2026-11-02",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 40,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 18,
+    "assignment_id": 18,
+    "student_id": 13,
+    "submission_date": "2026-11-03",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 45,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 19,
+    "assignment_id": 19,
+    "student_id": 6,
+    "submission_date": "2026-11-04",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 46,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 20,
+    "assignment_id": 20,
+    "student_id": 14,
+    "submission_date": "2026-11-05",
+    "file_url": "https://campus.edu/submissions/project_report.pdf",
+    "marks_awarded": 43,
+    "status": "Graded",
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

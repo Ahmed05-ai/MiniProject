@@ -1,0 +1,1487 @@
+[
+  {
+    "id": 1,
+    "student_id": 1,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 2,
+    "student_id": 1,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 3,
+    "student_id": 1,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 4,
+    "student_id": 2,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 5,
+    "student_id": 2,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 6,
+    "student_id": 2,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 7,
+    "student_id": 3,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 8,
+    "student_id": 3,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 9,
+    "student_id": 3,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 10,
+    "student_id": 4,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 11,
+    "student_id": 4,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 12,
+    "student_id": 4,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 13,
+    "student_id": 5,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 14,
+    "student_id": 5,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 15,
+    "student_id": 5,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 16,
+    "student_id": 6,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 17,
+    "student_id": 6,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 18,
+    "student_id": 6,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 19,
+    "student_id": 7,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 20,
+    "student_id": 7,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 21,
+    "student_id": 7,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 22,
+    "student_id": 8,
+    "course_id": 29,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 23,
+    "student_id": 8,
+    "course_id": 30,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 24,
+    "student_id": 8,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 25,
+    "student_id": 9,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 26,
+    "student_id": 9,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 27,
+    "student_id": 9,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 28,
+    "student_id": 10,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 29,
+    "student_id": 10,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 30,
+    "student_id": 10,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 31,
+    "student_id": 11,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 32,
+    "student_id": 11,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 33,
+    "student_id": 11,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 34,
+    "student_id": 12,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 35,
+    "student_id": 12,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 36,
+    "student_id": 12,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 37,
+    "student_id": 13,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 38,
+    "student_id": 13,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 39,
+    "student_id": 13,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 40,
+    "student_id": 14,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 41,
+    "student_id": 14,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 42,
+    "student_id": 14,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 43,
+    "student_id": 15,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 44,
+    "student_id": 15,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 45,
+    "student_id": 15,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 46,
+    "student_id": 16,
+    "course_id": 29,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 47,
+    "student_id": 16,
+    "course_id": 30,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 48,
+    "student_id": 16,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 49,
+    "student_id": 17,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 50,
+    "student_id": 17,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 51,
+    "student_id": 17,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 52,
+    "student_id": 18,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 53,
+    "student_id": 18,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 54,
+    "student_id": 18,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 55,
+    "student_id": 19,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 56,
+    "student_id": 19,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 57,
+    "student_id": 19,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 58,
+    "student_id": 20,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 59,
+    "student_id": 20,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 60,
+    "student_id": 20,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 61,
+    "student_id": 21,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 62,
+    "student_id": 21,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 63,
+    "student_id": 21,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 64,
+    "student_id": 22,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 65,
+    "student_id": 22,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 66,
+    "student_id": 22,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 67,
+    "student_id": 23,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 68,
+    "student_id": 23,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 69,
+    "student_id": 23,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 70,
+    "student_id": 24,
+    "course_id": 29,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 71,
+    "student_id": 24,
+    "course_id": 30,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 72,
+    "student_id": 24,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 73,
+    "student_id": 25,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 74,
+    "student_id": 25,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 75,
+    "student_id": 25,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 76,
+    "student_id": 26,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 77,
+    "student_id": 26,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 78,
+    "student_id": 26,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 79,
+    "student_id": 27,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 80,
+    "student_id": 27,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 81,
+    "student_id": 27,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 82,
+    "student_id": 28,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 83,
+    "student_id": 28,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 84,
+    "student_id": 28,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 85,
+    "student_id": 29,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 86,
+    "student_id": 29,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 87,
+    "student_id": 29,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 88,
+    "student_id": 30,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 89,
+    "student_id": 30,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 90,
+    "student_id": 30,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 91,
+    "student_id": 31,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 92,
+    "student_id": 31,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 93,
+    "student_id": 31,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 94,
+    "student_id": 32,
+    "course_id": 29,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 95,
+    "student_id": 32,
+    "course_id": 30,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 96,
+    "student_id": 32,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 97,
+    "student_id": 33,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 98,
+    "student_id": 33,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 99,
+    "student_id": 33,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 100,
+    "student_id": 34,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 101,
+    "student_id": 34,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 102,
+    "student_id": 34,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 103,
+    "student_id": 35,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 104,
+    "student_id": 35,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 105,
+    "student_id": 35,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 106,
+    "student_id": 36,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 107,
+    "student_id": 36,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 108,
+    "student_id": 36,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 109,
+    "student_id": 37,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 110,
+    "student_id": 37,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 111,
+    "student_id": 37,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 112,
+    "student_id": 38,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 113,
+    "student_id": 38,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 114,
+    "student_id": 38,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 115,
+    "student_id": 39,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 116,
+    "student_id": 39,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 117,
+    "student_id": 39,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 118,
+    "student_id": 40,
+    "course_id": 29,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 119,
+    "student_id": 40,
+    "course_id": 30,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 120,
+    "student_id": 40,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 121,
+    "student_id": 41,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 122,
+    "student_id": 41,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 123,
+    "student_id": 41,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 124,
+    "student_id": 42,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 125,
+    "student_id": 42,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 126,
+    "student_id": 42,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 127,
+    "student_id": 43,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 128,
+    "student_id": 43,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 129,
+    "student_id": 43,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 130,
+    "student_id": 44,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 131,
+    "student_id": 44,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 132,
+    "student_id": 44,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 133,
+    "student_id": 45,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 134,
+    "student_id": 45,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 135,
+    "student_id": 45,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 136,
+    "student_id": 46,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 137,
+    "student_id": 46,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 138,
+    "student_id": 46,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 139,
+    "student_id": 47,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 140,
+    "student_id": 47,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 141,
+    "student_id": 47,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 142,
+    "student_id": 48,
+    "course_id": 29,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 143,
+    "student_id": 48,
+    "course_id": 30,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 144,
+    "student_id": 48,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 8,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 145,
+    "student_id": 49,
+    "course_id": 1,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 146,
+    "student_id": 49,
+    "course_id": 2,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 147,
+    "student_id": 49,
+    "course_id": 3,
+    "academic_year": "2025-2026",
+    "semester": 1,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 148,
+    "student_id": 50,
+    "course_id": 7,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 149,
+    "student_id": 50,
+    "course_id": 8,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 150,
+    "student_id": 50,
+    "course_id": 9,
+    "academic_year": "2025-2026",
+    "semester": 2,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 151,
+    "student_id": 51,
+    "course_id": 11,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 152,
+    "student_id": 51,
+    "course_id": 12,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 153,
+    "student_id": 51,
+    "course_id": 13,
+    "academic_year": "2025-2026",
+    "semester": 3,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 154,
+    "student_id": 52,
+    "course_id": 15,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 155,
+    "student_id": 52,
+    "course_id": 16,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 156,
+    "student_id": 52,
+    "course_id": 17,
+    "academic_year": "2025-2026",
+    "semester": 4,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 157,
+    "student_id": 53,
+    "course_id": 19,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 158,
+    "student_id": 53,
+    "course_id": 20,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 159,
+    "student_id": 53,
+    "course_id": 21,
+    "academic_year": "2025-2026",
+    "semester": 5,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 160,
+    "student_id": 54,
+    "course_id": 23,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 161,
+    "student_id": 54,
+    "course_id": 24,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 162,
+    "student_id": 54,
+    "course_id": 25,
+    "academic_year": "2025-2026",
+    "semester": 6,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 163,
+    "student_id": 55,
+    "course_id": 26,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 164,
+    "student_id": 55,
+    "course_id": 27,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  },
+  {
+    "id": 165,
+    "student_id": 55,
+    "course_id": 28,
+    "academic_year": "2025-2026",
+    "semester": 7,
+    "status": "Enrolled",
+    "created_at": "2026-11-05 14:13:08"
+  }
+]

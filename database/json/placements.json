@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "company_name": "Google India",
+    "job_role": "Software Development Engineer",
+    "package_lpa": 32.5,
+    "drive_date": "2026-02-15",
+    "student_id": 41,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 2,
+    "company_name": "Microsoft IDC",
+    "job_role": "Cloud Solution Engineer",
+    "package_lpa": 28,
+    "drive_date": "2026-02-15",
+    "student_id": 42,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "company_name": "Amazon AWS",
+    "job_role": "Support Engineer / DevOps",
+    "package_lpa": 22,
+    "drive_date": "2026-02-15",
+    "student_id": 43,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "company_name": "Deloitte USI",
+    "job_role": "Technology Consultant",
+    "package_lpa": 12.5,
+    "drive_date": "2026-02-15",
+    "student_id": 44,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "company_name": "Tata Consultancy Services",
+    "job_role": "Systems Engineer",
+    "package_lpa": 7.2,
+    "drive_date": "2026-02-15",
+    "student_id": 45,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "company_name": "Infosys Limited",
+    "job_role": "Specialist Programmer",
+    "package_lpa": 9.5,
+    "drive_date": "2026-02-15",
+    "student_id": 46,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "company_name": "Wipro Technologies",
+    "job_role": "Project Engineer",
+    "package_lpa": 6.5,
+    "drive_date": "2026-02-15",
+    "student_id": 47,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "company_name": "Larsen & Toubro (L&T)",
+    "job_role": "Graduate Engineer Trainee",
+    "package_lpa": 8,
+    "drive_date": "2026-02-15",
+    "student_id": 48,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "company_name": "Tata Motors",
+    "job_role": "Automotive Design Engineer",
+    "package_lpa": 8.5,
+    "drive_date": "2026-02-15",
+    "student_id": 49,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "company_name": "HDFC Bank",
+    "job_role": "Financial Analyst (Tech)",
+    "package_lpa": 10,
+    "drive_date": "2026-02-15",
+    "student_id": 50,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 11,
+    "company_name": "Oracle India",
+    "job_role": "Database Associate",
+    "package_lpa": 16,
+    "drive_date": "2026-02-15",
+    "student_id": 51,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 12,
+    "company_name": "Cisco Systems",
+    "job_role": "Network Software Engineer",
+    "package_lpa": 18.5,
+    "drive_date": "2026-02-15",
+    "student_id": 52,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 13,
+    "company_name": "Qualcomm India",
+    "job_role": "Hardware Design Engineer",
+    "package_lpa": 20,
+    "drive_date": "2026-02-15",
+    "student_id": 53,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 14,
+    "company_name": "Biocon Biologics",
+    "job_role": "Bioprocess Research Associate",
+    "package_lpa": 7.5,
+    "drive_date": "2026-02-15",
+    "student_id": 54,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 15,
+    "company_name": "Maruti Suzuki",
+    "job_role": "Robotics Integration Specialist",
+    "package_lpa": 8.2,
+    "drive_date": "2026-02-15",
+    "student_id": 55,
+    "status": "Selected",
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

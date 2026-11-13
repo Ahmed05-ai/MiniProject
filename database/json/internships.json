@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "student_id": 31,
+    "company_name": "Samsung R&D Institute",
+    "role": "AI Research Intern",
+    "stipend": 45000,
+    "start_date": "2026-01-10",
+    "end_date": "2026-06-30",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 2,
+    "student_id": 32,
+    "company_name": "Intel India",
+    "role": "VLSI Engineering Intern",
+    "stipend": 40000,
+    "start_date": "2026-01-15",
+    "end_date": "2026-06-30",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "student_id": 33,
+    "company_name": "ISRO Telemetry",
+    "role": "Signal Processing Trainee",
+    "stipend": 25000,
+    "start_date": "2026-02-01",
+    "end_date": "2026-05-31",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "student_id": 34,
+    "company_name": "Bosch Engineering",
+    "role": "Embedded Systems Intern",
+    "stipend": 30000,
+    "start_date": "2026-01-10",
+    "end_date": "2026-06-30",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "student_id": 35,
+    "company_name": "Goldman Sachs",
+    "role": "Operations & Quantitative Analyst",
+    "stipend": 60000,
+    "start_date": "2026-02-01",
+    "end_date": "2026-07-31",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "student_id": 36,
+    "company_name": "Zomato Engineering",
+    "role": "Backend Software Intern",
+    "stipend": 35000,
+    "start_date": "2026-01-20",
+    "end_date": "2026-06-20",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "student_id": 37,
+    "company_name": "Razorpay",
+    "role": "Frontend Web Intern",
+    "stipend": 30000,
+    "start_date": "2026-02-01",
+    "end_date": "2026-05-31",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "student_id": 38,
+    "company_name": "Bharat Biotech",
+    "role": "R&D Laboratory Trainee",
+    "stipend": 20000,
+    "start_date": "2026-01-15",
+    "end_date": "2026-06-15",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "student_id": 39,
+    "company_name": "DLF Infrastructure",
+    "role": "Site Engineering Trainee",
+    "stipend": 22000,
+    "start_date": "2026-02-10",
+    "end_date": "2026-05-10",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "student_id": 40,
+    "company_name": "Schneider Electric",
+    "role": "Power Systems Trainee",
+    "stipend": 28000,
+    "start_date": "2026-01-15",
+    "end_date": "2026-06-30",
+    "status": "Ongoing",
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

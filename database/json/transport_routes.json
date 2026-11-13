@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "route_number": "R-01",
+    "route_name": "Delhi Connaught Place Express",
+    "start_point": "CP Block B, New Delhi",
+    "end_point": "Campus Gate 1",
+    "bus_number": "DL-01-AB-1234",
+    "driver_name": "Gurmeet Singh",
+    "driver_phone": "+91 98111 22334",
+    "monthly_fee": 1800,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 2,
+    "route_number": "R-02",
+    "route_name": "Noida City Center Shuttle",
+    "start_point": "Noida City Center Metro",
+    "end_point": "Campus Gate 2",
+    "bus_number": "UP-16-CD-5678",
+    "driver_name": "Mukesh Sharma",
+    "driver_phone": "+91 98222 33445",
+    "monthly_fee": 1500,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 3,
+    "route_number": "R-03",
+    "route_name": "Gurugram Cyber Hub Line",
+    "start_point": "Cyber Hub Phase 2, Gurugram",
+    "end_point": "Campus Gate 1",
+    "bus_number": "HR-26-EF-9012",
+    "driver_name": "Rajinder Pal",
+    "driver_phone": "+91 98333 44556",
+    "monthly_fee": 2000,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 4,
+    "route_number": "R-04",
+    "route_name": "Ghaziabad Anand Vihar Link",
+    "start_point": "Anand Vihar ISBT",
+    "end_point": "Campus Gate 2",
+    "bus_number": "UP-14-GH-3456",
+    "driver_name": "Surender Yadav",
+    "driver_phone": "+91 98444 55667",
+    "monthly_fee": 1600,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 5,
+    "route_number": "R-05",
+    "route_name": "South Delhi Nehru Place Line",
+    "start_point": "Nehru Place Terminal",
+    "end_point": "Campus Gate 1",
+    "bus_number": "DL-04-IJ-7890",
+    "driver_name": "Balwinder Singh",
+    "driver_phone": "+91 98555 66778",
+    "monthly_fee": 1750,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 6,
+    "route_number": "R-06",
+    "route_name": "Faridabad Bata Chowk Link",
+    "start_point": "Bata Chowk Metro, Faridabad",
+    "end_point": "Campus Gate 2",
+    "bus_number": "HR-51-KL-2345",
+    "driver_name": "Om Prakash",
+    "driver_phone": "+91 98666 77889",
+    "monthly_fee": 1700,
+    "created_at": "2026-11-05 14:13:09"
+  }
+]

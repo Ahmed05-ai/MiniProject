@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "user_id": 5,
+    "title": "Projector connectivity issue in Lecture Hall B-204",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Infrastructure",
+    "priority": "Medium",
+    "status": "Resolved",
+    "resolution_notes": "HDMI cable and port replaced by AV team.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 2,
+    "user_id": 8,
+    "title": "Low water pressure on 2nd Floor Aryabhata Hostel",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Hostel",
+    "priority": "High",
+    "status": "Resolved",
+    "resolution_notes": "Booster pump motor repaired.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "user_id": 12,
+    "title": "Route R-02 bus air conditioning malfunction",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Transport",
+    "priority": "Medium",
+    "status": "In Progress",
+    "resolution_notes": "Bus scheduled for AC servicing this Saturday.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "user_id": 16,
+    "title": "Wi-Fi connectivity drops in Central Library reading hall",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Infrastructure",
+    "priority": "High",
+    "status": "Resolved",
+    "resolution_notes": "New dual-band access point installed.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "user_id": 20,
+    "title": "Lab equipment calibration needed for Digital Signal Processing",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Academic",
+    "priority": "Medium",
+    "status": "Resolved",
+    "resolution_notes": "Lab technician recalibrated all oscilloscopes.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "user_id": 24,
+    "title": "Cafeteria food hygiene inspection request",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Infrastructure",
+    "priority": "Urgent",
+    "status": "Resolved",
+    "resolution_notes": "Sanitary inspection conducted; vendor issued guidelines.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "user_id": 28,
+    "title": "Hostel room door lock jammed in room 103",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Hostel",
+    "priority": "High",
+    "status": "Resolved",
+    "resolution_notes": "Carpenter installed new biometric handle lock.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "user_id": 32,
+    "title": "Request for additional electrical power strips in study room",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Infrastructure",
+    "priority": "Low",
+    "status": "In Progress",
+    "resolution_notes": "Procurement requested from store.",
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "user_id": 36,
+    "title": "Delay in library catalog update for renewed textbooks",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Academic",
+    "priority": "Low",
+    "status": "Open",
+    "resolution_notes": null,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "user_id": 40,
+    "title": "Streetlight blinking near Campus Gate 2 crossing",
+    "description": "Formal student/staff issue logged through helpdesk portal",
+    "category": "Infrastructure",
+    "priority": "Medium",
+    "status": "Resolved",
+    "resolution_notes": "LED fixture replaced by electrical maintenance.",
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

@@ -1,0 +1,89 @@
+id,name,email,password,role,is_active,created_at,updated_at
+1,System Super Administrator,superadmin@campus.edu,$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i,super_admin,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+2,Academic Administrator,admin@campus.edu,$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i,admin,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+3,Examinations Officer,exam.admin@campus.edu,$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i,admin,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+4,Registrar Office,registrar@campus.edu,$2a$08$lJR/JKMJOwX14kVAUElnYOcNdY5Yc04HyxYObipPeoMv/xGVbod2i,admin,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+5,Dr. Arvind Singhania,dr.arvind.singhania@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+6,Dr. Sunita Sharma,dr.sunita.sharma@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+7,Prof. Rajesh Nair,prof.rajesh.nair@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+8,Dr. Vikram Seth,dr.vikram.seth@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+9,Dr. Priya Desai,dr.priya.desai@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+10,Prof. Ananya Sen,prof.ananya.sen@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+11,Dr. Manoj Tiwari,dr.manoj.tiwari@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+12,Dr. Harish Patel,dr.harish.patel@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+13,Prof. Suresh Kumar,prof.suresh.kumar@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+14,Dr. Meena Iyer,dr.meena.iyer@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+15,Dr. Ramesh Chandra,dr.ramesh.chandra@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+16,Prof. Alok Verma,prof.alok.verma@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+17,Dr. Geeta Pillai,dr.geeta.pillai@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+18,Prof. Sanjay Rathore,prof.sanjay.rathore@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+19,Dr. Kavita Menon,dr.kavita.menon@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+20,Prof. Deepak Joshi,prof.deepak.joshi@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+21,Dr. Sandeep Kulkarni,dr.sandeep.kulkarni@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+22,Prof. Ritu Kapoor,prof.ritu.kapoor@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+23,Dr. Manish Pandey,dr.manish.pandey@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+24,Prof. Swati Mukherjee,prof.swati.mukherjee@faculty.campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,faculty,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+25,Rahul Sharma,rahul@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+26,Priya Verma,priya.verma1@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+27,Aarav Patel,aarav.patel2@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+28,Ananya Iyer,ananya.iyer3@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+29,Rohan Gupta,rohan.gupta4@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+30,Sneha Reddy,sneha.reddy5@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+31,Aditya Joshi,aditya.joshi6@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+32,Kavya Nair,kavya.nair7@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+33,Vikram Singh,vikram.singh8@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+34,Neha Deshmukh,neha.deshmukh9@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+35,Ishaan Chopra,ishaan.chopra10@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+36,Tanvi Malhotra,tanvi.malhotra11@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+37,Aryan Bhat,aryan.bhat12@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+38,Pooja Rao,pooja.rao13@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+39,Dhruv Mukherjee,dhruv.mukherjee14@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+40,Riya Mehta,riya.mehta15@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+41,Arjun Kulkarni,arjun.kulkarni16@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+42,Shreya Kapoor,shreya.kapoor17@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+43,Kunal Pandey,kunal.pandey18@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+44,Divya Saxena,divya.saxena19@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+45,Varun Bose,varun.bose20@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+46,Meera Mishra,meera.mishra21@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+47,Nikhil Agarwal,nikhil.agarwal22@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+48,Simran Chatterjee,simran.chatterjee23@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+49,Ayush Dubey,ayush.dubey24@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+50,Isha Soni,isha.soni25@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+51,Siddharth Tripathi,siddharth.tripathi26@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+52,Aditi Trivedi,aditi.trivedi27@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+53,Gaurav Yadav,gaurav.yadav28@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+54,Bhavna Gowda,bhavna.gowda29@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+55,Abhishek Sharma,abhishek.sharma30@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+56,Swati Verma,swati.verma31@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+57,Harsh Patel,harsh.patel32@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+58,Preeti Iyer,preeti.iyer33@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+59,Pranav Gupta,pranav.gupta34@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+60,Rashmi Reddy,rashmi.reddy35@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+61,Karan Joshi,karan.joshi36@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+62,Deepika Nair,deepika.nair37@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+63,Akash Singh,akash.singh38@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+64,Shruti Deshmukh,shruti.deshmukh39@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+65,Manish Chopra,manish.chopra40@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+66,Komal Malhotra,komal.malhotra41@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+67,Mohit Bhat,mohit.bhat42@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+68,Pallavi Rao,pallavi.rao43@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+69,Yash Mukherjee,yash.mukherjee44@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+70,Anjali Mehta,anjali.mehta45@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+71,Mayank Kulkarni,mayank.kulkarni46@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+72,Ritu Kapoor,ritu.kapoor47@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+73,Sourabh Pandey,sourabh.pandey48@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+74,Nisha Saxena,nisha.saxena49@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+75,Vivek Bose,vivek.bose50@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+76,Sakshi Mishra,sakshi.mishra51@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+77,Tarun Agarwal,tarun.agarwal52@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+78,Vandana Chatterjee,vandana.chatterjee53@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+79,Chirag Dubey,chirag.dubey54@campus.edu,$2a$08$R5SYBpdFUqMIll/QaLx2uuiuJCooVRcjclpKIj8sR7qeqESyeX0iq,student,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+80,Chief Accounts Officer,accounts@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,accountant,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+81,Finance Executive 1,fees1@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,accountant,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+82,Finance Executive 2,fees2@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,accountant,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+83,Head Librarian,librarian@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,librarian,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+84,Assistant Librarian A,lib.assistant1@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,librarian,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+85,Assistant Librarian B,lib.assistant2@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,librarian,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+86,Chief Hostel Warden,warden.chief@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,hostel_warden,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+87,Boys Hostel Warden,warden.boys@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,hostel_warden,1,2026-11-05 14:13:07,2026-11-05 14:13:07
+88,Girls Hostel Warden,warden.girls@campus.edu,$2a$08$jcdfXz/.91Mkij4PfeC/vex08OeVm2RP/hr9ASls3J.WSuRhelKUC,hostel_warden,1,2026-11-05 14:13:07,2026-11-05 14:13:07

@@ -1,0 +1,11 @@
+id,user_id,title,description,category,priority,status,resolution_notes,created_at
+1,5,Projector connectivity issue in Lecture Hall B-204,Formal student/staff issue logged through helpdesk portal,Infrastructure,Medium,Resolved,HDMI cable and port replaced by AV team.,2026-11-05 14:13:10
+2,8,Low water pressure on 2nd Floor Aryabhata Hostel,Formal student/staff issue logged through helpdesk portal,Hostel,High,Resolved,Booster pump motor repaired.,2026-11-05 14:13:10
+3,12,Route R-02 bus air conditioning malfunction,Formal student/staff issue logged through helpdesk portal,Transport,Medium,In Progress,Bus scheduled for AC servicing this Saturday.,2026-11-05 14:13:10
+4,16,Wi-Fi connectivity drops in Central Library reading hall,Formal student/staff issue logged through helpdesk portal,Infrastructure,High,Resolved,New dual-band access point installed.,2026-11-05 14:13:10
+5,20,Lab equipment calibration needed for Digital Signal Processing,Formal student/staff issue logged through helpdesk portal,Academic,Medium,Resolved,Lab technician recalibrated all oscilloscopes.,2026-11-05 14:13:10
+6,24,Cafeteria food hygiene inspection request,Formal student/staff issue logged through helpdesk portal,Infrastructure,Urgent,Resolved,Sanitary inspection conducted; vendor issued guidelines.,2026-11-05 14:13:10
+7,28,Hostel room door lock jammed in room 103,Formal student/staff issue logged through helpdesk portal,Hostel,High,Resolved,Carpenter installed new biometric handle lock.,2026-11-05 14:13:10
+8,32,Request for additional electrical power strips in study room,Formal student/staff issue logged through helpdesk portal,Infrastructure,Low,In Progress,Procurement requested from store.,2026-11-05 14:13:10
+9,36,Delay in library catalog update for renewed textbooks,Formal student/staff issue logged through helpdesk portal,Academic,Low,Open,,2026-11-05 14:13:10
+10,40,Streetlight blinking near Campus Gate 2 crossing,Formal student/staff issue logged through helpdesk portal,Infrastructure,Medium,Resolved,LED fixture replaced by electrical maintenance.,2026-11-05 14:13:10

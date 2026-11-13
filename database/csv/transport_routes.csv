@@ -1,0 +1,7 @@
+id,route_number,route_name,start_point,end_point,bus_number,driver_name,driver_phone,monthly_fee,created_at
+1,R-01,Delhi Connaught Place Express,"CP Block B, New Delhi",Campus Gate 1,DL-01-AB-1234,Gurmeet Singh,+91 98111 22334,1800,2026-11-05 14:13:09
+2,R-02,Noida City Center Shuttle,Noida City Center Metro,Campus Gate 2,UP-16-CD-5678,Mukesh Sharma,+91 98222 33445,1500,2026-11-05 14:13:09
+3,R-03,Gurugram Cyber Hub Line,"Cyber Hub Phase 2, Gurugram",Campus Gate 1,HR-26-EF-9012,Rajinder Pal,+91 98333 44556,2000,2026-11-05 14:13:09
+4,R-04,Ghaziabad Anand Vihar Link,Anand Vihar ISBT,Campus Gate 2,UP-14-GH-3456,Surender Yadav,+91 98444 55667,1600,2026-11-05 14:13:09
+5,R-05,South Delhi Nehru Place Line,Nehru Place Terminal,Campus Gate 1,DL-04-IJ-7890,Balwinder Singh,+91 98555 66778,1750,2026-11-05 14:13:09
+6,R-06,Faridabad Bata Chowk Link,"Bata Chowk Metro, Faridabad",Campus Gate 2,HR-51-KL-2345,Om Prakash,+91 98666 77889,1700,2026-11-05 14:13:09

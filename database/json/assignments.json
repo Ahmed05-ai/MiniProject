@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Programming in C - Dynamic Memory Allocation & File Indexer",
+    "description": "Implement multi-threaded text file indexing system using pointers, malloc/free, and binary search.",
+    "course_id": 1,
+    "subject_id": 1,
+    "faculty_id": 1,
+    "due_date": "2026-11-18",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:09"
+  },
+  {
+    "id": 2,
+    "title": "DSA - Red-Black Tree Implementation & Benchmark",
+    "description": "Construct self-balancing search tree with left/right rotations and benchmark performance against AVL trees.",
+    "course_id": 2,
+    "subject_id": 3,
+    "faculty_id": 2,
+    "due_date": "2026-11-22",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 3,
+    "title": "DBMS - University ERP Relational Schema & 3NF Normalization",
+    "description": "Design entity-relationship diagrams, write complex nested SQL joins, and optimize B-Tree index queries.",
+    "course_id": 3,
+    "subject_id": 5,
+    "faculty_id": 3,
+    "due_date": "2026-11-26",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 4,
+    "title": "Computer Networks - Multi-Threaded TCP Socket Server",
+    "description": "Build client-server socket architecture with sliding window flow control and packet header inspection.",
+    "course_id": 4,
+    "subject_id": 7,
+    "faculty_id": 1,
+    "due_date": "2026-11-30",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 5,
+    "title": "Digital Electronics - 4-Bit ALU Design in Verilog",
+    "description": "Synthesize arithmetic and logic unit performing 8 operations using multiplexers, full adders, and status flags.",
+    "course_id": 7,
+    "subject_id": 11,
+    "faculty_id": 4,
+    "due_date": "2026-11-18",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 6,
+    "title": "Signals & Systems - Fourier Transform & Convolution Simulation",
+    "description": "Compute continuous and discrete-time convolution integrals and analyze frequency response of low-pass filters.",
+    "course_id": 7,
+    "subject_id": 12,
+    "faculty_id": 5,
+    "due_date": "2026-11-22",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 7,
+    "title": "Embedded Systems - ARM Cortex-M Traffic Controller Firmware",
+    "description": "Develop bare-metal C timer interrupt routines and GPIO drivers for a 4-way intelligent intersection controller.",
+    "course_id": 9,
+    "subject_id": 13,
+    "faculty_id": 6,
+    "due_date": "2026-11-26",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 8,
+    "title": "VLSI Design - CMOS Inverter Stick Diagram & Delay Modeling",
+    "description": "Design DRC/LVS clean stick diagram and transient SPICE timing analysis for sub-micron CMOS inverter standard cell.",
+    "course_id": 10,
+    "subject_id": 15,
+    "faculty_id": 4,
+    "due_date": "2026-11-30",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 9,
+    "title": "Engineering Mechanics - Truss Equilibrium & Load Analysis",
+    "description": "Analyze 2D pin-jointed bridge truss using method of joints and method of sections. Plot internal stress distribution.",
+    "course_id": 11,
+    "subject_id": 16,
+    "faculty_id": 7,
+    "due_date": "2026-11-18",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 10,
+    "title": "Thermodynamics - Rankine Steam Power Cycle Simulation",
+    "description": "Calculate thermal efficiency and steam quality across boiler, turbine, and condenser stages for a 500MW thermal plant.",
+    "course_id": 11,
+    "subject_id": 17,
+    "faculty_id": 8,
+    "due_date": "2026-11-22",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 11,
+    "title": "Fluid Mechanics - Pipe Network Head Loss Calculation",
+    "description": "Determine friction factor using Darcy-Weisbach equation and Moody chart for laminar and turbulent Reynolds numbers.",
+    "course_id": 13,
+    "subject_id": 18,
+    "faculty_id": 7,
+    "due_date": "2026-11-26",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 12,
+    "title": "Robotics - Forward Kinematics & DH Parameter Modeling",
+    "description": "Formulate Denavit-Hartenberg transformation matrices for 6-DOF industrial robotic arm and simulate end-effector trajectory.",
+    "course_id": 14,
+    "subject_id": 19,
+    "faculty_id": 8,
+    "due_date": "2026-11-30",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 13,
+    "title": "Surveying & Geomatics - Total Station Traverse Mapping",
+    "description": "Perform closed loop traverse computation, apply Bowditch balancing rule, and draft contour elevation profiles.",
+    "course_id": 15,
+    "subject_id": 20,
+    "faculty_id": 9,
+    "due_date": "2026-11-18",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 14,
+    "title": "Structural Analysis - Bending Moment & Shear Force Diagram",
+    "description": "Evaluate cantilever and continuous beams under uniformly distributed and point loads using moment distribution method.",
+    "course_id": 15,
+    "subject_id": 20,
+    "faculty_id": 10,
+    "due_date": "2026-11-22",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 15,
+    "title": "Concrete Technology - M30 Mix Design & Compressive Strength",
+    "description": "Design concrete mix proportioning per IS 10262 standards and verify 28-day cube curing compressive strength results.",
+    "course_id": 17,
+    "subject_id": 21,
+    "faculty_id": 9,
+    "due_date": "2026-11-26",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 16,
+    "title": "Environmental Engg - Water Treatment Plant Hydraulic Sizing",
+    "description": "Design rapid sand filter beds, sedimentation basins, and chemical coagulation dosing for 20 MLD urban water supply.",
+    "course_id": 18,
+    "subject_id": 22,
+    "faculty_id": 10,
+    "due_date": "2026-11-30",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 17,
+    "title": "Network Analysis - Thevenin & Norton Equivalent Circuits",
+    "description": "Solve complex AC mesh circuits with coupled inductors and compute maximum power transfer conditions.",
+    "course_id": 19,
+    "subject_id": 23,
+    "faculty_id": 11,
+    "due_date": "2026-11-18",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 18,
+    "title": "Electrical Machines - Three-Phase Induction Motor Torque-Slip",
+    "description": "Perform blocked-rotor and no-load laboratory tests to extract equivalent circuit parameters and starting torque.",
+    "course_id": 21,
+    "subject_id": 24,
+    "faculty_id": 12,
+    "due_date": "2026-11-24",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 19,
+    "title": "Web Application Development - Microservices REST API with JWT",
+    "description": "Build responsive single-page web app with secure role-based session middleware and database transactions.",
+    "course_id": 23,
+    "subject_id": 26,
+    "faculty_id": 13,
+    "due_date": "2026-11-20",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  },
+  {
+    "id": 20,
+    "title": "Cyber Security - RSA Cryptographic Engine & Packet Penetration",
+    "description": "Implement asymmetric key generation, prime factorization verification, and vulnerability scanning.",
+    "course_id": 24,
+    "subject_id": 28,
+    "faculty_id": 14,
+    "due_date": "2026-11-28",
+    "max_marks": 50,
+    "created_at": "2026-11-05 14:13:10"
+  }
+]

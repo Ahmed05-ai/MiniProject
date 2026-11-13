@@ -1,0 +1,16 @@
+id,user_id,leave_type,start_date,end_date,reason,status,approved_by,created_at
+1,5,Sick,2026-02-02,2026-02-04,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+2,6,Casual,2026-02-03,2026-02-05,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+3,7,Academic,2026-02-04,2026-02-06,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+4,8,Sick,2026-02-05,2026-02-07,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+5,9,Casual,2026-02-06,2026-02-08,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+6,10,Academic,2026-02-07,2026-02-09,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+7,11,Sick,2026-02-08,2026-02-10,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+8,12,Casual,2026-02-09,2026-02-11,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+9,13,Academic,2026-02-10,2026-02-12,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+10,14,Sick,2026-02-11,2026-02-13,Medical or official university representation requirement,Approved,1,2026-11-05 14:13:10
+11,15,Casual,2026-02-12,2026-02-14,Medical or official university representation requirement,Pending,1,2026-11-05 14:13:10
+12,16,Academic,2026-02-13,2026-02-15,Medical or official university representation requirement,Pending,1,2026-11-05 14:13:10
+13,17,Sick,2026-02-14,2026-02-16,Medical or official university representation requirement,Pending,1,2026-11-05 14:13:10
+14,18,Casual,2026-02-15,2026-02-17,Medical or official university representation requirement,Rejected,1,2026-11-05 14:13:10
+15,19,Academic,2026-02-16,2026-02-18,Medical or official university representation requirement,Rejected,1,2026-11-05 14:13:10

@@ -1,0 +1,1017 @@
+/**
+ * Smart Campus Student Management System
+ * Global Stylesheet & Design System
+ * 
+ * Complies with Web Development Guidelines:
+ * - HTML5 & CSS3: Flexbox, CSS Grid, Custom Variables, Modern Typography
+ * - Polished UI/UX with smooth transitions and responsive layouts
+ */
+
+/* ==========================================================================
+   1. CSS Variables / Design Tokens
+   ========================================================================== */
+:root {
+    /* Brand Colors */
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --primary-light: #3b82f6;
+    --primary-subtle: #eff6ff;
+    --primary-border: #bfdbfe;
+
+    --admin-accent: #0f766e;
+    --admin-dark: #115e59;
+    --admin-subtle: #f0fdfa;
+
+    --accent: #f59e0b;
+    --success: #10b981;
+    --success-bg: #ecfdf5;
+    --danger: #ef4444;
+    --danger-bg: #fef2f2;
+    --warning: #f59e0b;
+
+    /* Neutrals */
+    --bg-main: #f8fafc;
+    --bg-surface: #ffffff;
+    --bg-surface-glass: rgba(255, 255, 255, 0.92);
+    --border-color: #e2e8f0;
+    --border-focus: #3b82f6;
+
+    /* Text */
+    --text-main: #0f172a;
+    --text-muted: #64748b;
+    --text-light: #94a3b8;
+    --text-white: #ffffff;
+
+    /* Elevation Shadows */
+    --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+    --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.06);
+    --shadow-lg: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.06);
+    --shadow-xl: 0 20px 35px -10px rgba(15, 23, 42, 0.22);
+
+    /* Radii */
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --radius-full: 9999px;
+
+    /* Typography */
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ==========================================================================
+   2. Reset & Base Styles
+   ========================================================================== */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-sans);
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--primary-dark);
+}
+
+button {
+    font-family: inherit;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: var(--transition);
+}
+
+/* ==========================================================================
+   3. Campus Background & Login Layout
+   ========================================================================== */
+.auth-page-body {
+    min-height: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    padding: 16px;
+    background: #080d1a;
+    box-sizing: border-box;
+}
+
+@media (max-height: 620px) {
+    .auth-page-body {
+        height: auto;
+        min-height: 100vh;
+        overflow-y: auto;
+    }
+}
+
+/* Background image with realistic college campus & ambient glow */
+.campus-bg-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/campus_bg.jpg');
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+    filter: blur(3px);
+    transform: scale(1.03);
+}
+
+.campus-bg-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 50% 30%, rgba(15, 23, 42, 0.82) 0%, rgba(8, 13, 26, 0.94) 100%);
+    backdrop-filter: blur(6px);
+}
+
+.ambient-glow {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(90px);
+    opacity: 0.22;
+    pointer-events: none;
+}
+
+.ambient-glow.glow-1 {
+    width: 400px;
+    height: 400px;
+    background: #2563eb;
+    top: -50px;
+    left: 15%;
+}
+
+.ambient-glow.glow-2 {
+    width: 440px;
+    height: 440px;
+    background: #4f46e5;
+    bottom: -60px;
+    right: 15%;
+}
+
+/* Login Card Container (Compact Screen-Fitted Card) */
+.login-wrapper {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    max-width: 420px;
+    margin: auto;
+}
+
+.login-card-container,
+.compact-login-card {
+    display: block;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 20px;
+    box-shadow: 0 25px 60px -15px rgba(0, 15, 45, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.7) inset;
+    padding: 24px 28px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-sizing: border-box;
+    animation: fadeInScale 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes fadeInScale {
+    from {
+        opacity: 0;
+        transform: scale(0.96) translateY(8px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+/* Compact Modern Header */
+.login-compact-header {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.compact-logo-badge {
+    width: 46px;
+    height: 46px;
+    margin: 0 auto 8px;
+    background: linear-gradient(135deg, #002b66 0%, #2563eb 100%);
+    color: #ffffff;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    box-shadow: 0 8px 20px rgba(37, 99, 235, 0.35);
+    border: 1.5px solid rgba(255, 255, 255, 0.2);
+}
+
+.compact-title {
+    font-size: 1.38rem;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.025em;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.compact-subtitle {
+    font-size: 0.78rem;
+    color: #64748b;
+    margin: 3px 0 0;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+}
+
+/* Quick Student Profile Selector Box */
+.student-profile-selector-box {
+    background: #f8fafc;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 11px;
+    padding: 8px 10px 10px;
+    margin-bottom: 11px;
+    transition: all 0.2s ease;
+}
+
+.student-profile-selector-box:hover,
+.student-profile-selector-box:focus-within {
+    border-color: #93c5fd;
+    background: #f0f7ff;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.06);
+}
+
+.selector-label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: #1e293b;
+    cursor: pointer;
+}
+
+.selector-label-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.selector-label-left i {
+    color: #2563eb;
+    font-size: 0.82rem;
+}
+
+.selector-label-badge {
+    font-size: 0.65rem;
+    font-weight: 800;
+    color: #1d4ed8;
+    background: #dbeafe;
+    padding: 2px 7px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.compact-select {
+    padding: 7px 10px 7px 32px !important;
+    font-size: 0.82rem !important;
+    font-weight: 600 !important;
+    color: #1e293b !important;
+    background: #ffffff !important;
+    border: 1px solid #cbd5e1 !important;
+    border-radius: 7px !important;
+    cursor: pointer;
+    height: 36px;
+    outline: none;
+}
+
+.compact-select:focus {
+    border-color: #2563eb !important;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12) !important;
+}
+
+/* Compact Form Groups */
+.compact-group {
+    margin-bottom: 8px;
+    gap: 3px !important;
+}
+
+.compact-label {
+    font-size: 0.76rem !important;
+    font-weight: 700 !important;
+    color: #334155 !important;
+    margin-bottom: 1px;
+}
+
+.compact-wrapper .input-icon {
+    left: 11px;
+    font-size: 0.88rem;
+    color: #94a3b8;
+}
+
+.compact-input {
+    padding: 8px 12px 8px 32px !important;
+    font-size: 0.86rem !important;
+    border-radius: 8px !important;
+    background: #f8fafc !important;
+    border: 1.5px solid #e2e8f0 !important;
+    height: 36px;
+}
+
+.compact-input:focus {
+    background: #ffffff !important;
+    border-color: #2563eb !important;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12) !important;
+}
+
+.compact-options {
+    margin: 2px 0 10px !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.compact-submit-btn {
+    padding: 10px 18px !important;
+    font-size: 0.92rem !important;
+    font-weight: 700 !important;
+    border-radius: 9px !important;
+    background: linear-gradient(135deg, #002b66 0%, #1d4ed8 100%) !important;
+    box-shadow: 0 5px 16px rgba(29, 78, 216, 0.3) !important;
+    transition: all 0.2s ease !important;
+    margin-top: 2px !important;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    width: 100%;
+}
+
+.compact-submit-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 22px rgba(29, 78, 216, 0.42) !important;
+    filter: brightness(1.05);
+}
+
+.compact-submit-btn:active {
+    transform: translateY(0);
+}
+
+.compact-card-footer {
+    margin-top: 10px;
+    padding-top: 9px;
+    border-top: 1px solid #f1f5f9;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.compact-card-footer .register-prompt {
+    font-size: 0.76rem;
+    color: #64748b;
+    margin: 0;
+}
+
+.compact-card-footer .register-link {
+    color: #2563eb;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.compact-card-footer .register-link:hover {
+    text-decoration: underline;
+}
+
+.compact-card-footer .back-home-link {
+    font-size: 0.72rem;
+    color: #94a3b8;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    transition: color 0.2s;
+}
+
+.compact-card-footer .back-home-link:hover {
+    color: #2563eb;
+}
+
+/* ==========================================================================
+   4. Left Branding Panel
+   ========================================================================== */
+.login-branding-panel {
+    position: relative;
+    background: linear-gradient(145deg, rgba(15, 23, 42, 0.95), rgba(30, 58, 138, 0.92)), url('../images/campus_bg.jpg') center/cover;
+    color: var(--text-white);
+    padding: 48px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.branding-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.brand-logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+.brand-logo i {
+    font-size: 1.6rem;
+    color: #60a5fa;
+}
+
+.portal-badge {
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 4px 12px;
+    border-radius: var(--radius-full);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.branding-quote {
+    margin: 40px 0;
+}
+
+.quote-tag {
+    display: inline-block;
+    color: #93c5fd;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 12px;
+}
+
+.quote-title {
+    font-family: var(--font-serif);
+    font-size: 2.5rem;
+    line-height: 1.15;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+.quote-title em {
+    font-style: italic;
+    color: #93c5fd;
+}
+
+.quote-desc {
+    color: #cbd5e1;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.branding-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    padding-top: 24px;
+}
+
+.stats-mini {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.stat-number {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: #94a3b8;
+}
+
+.stat-divider {
+    width: 1px;
+    height: 28px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* ==========================================================================
+   5. Right Login Form Panel
+   ========================================================================== */
+.login-form-panel {
+    padding: 48px 44px;
+    background: var(--bg-surface);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.header-icon-box {
+    width: 54px;
+    height: 54px;
+    margin: 0 auto 12px;
+    background: var(--primary-subtle);
+    border: 1px solid var(--primary-border);
+    color: var(--primary);
+    border-radius: var(--radius-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.form-title {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--text-main);
+    letter-spacing: -0.02em;
+}
+
+.form-subtitle {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-top: 4px;
+}
+
+/* ==========================================================================
+   6. Role Selector Tabs (Student vs Admin)
+   ========================================================================== */
+.role-tabs-container {
+    margin-bottom: 24px;
+}
+
+.role-tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: #f1f5f9;
+    padding: 5px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-color);
+    position: relative;
+}
+
+.tab-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: transparent;
+    transition: var(--transition);
+}
+
+.tab-btn:hover {
+    color: var(--text-main);
+}
+
+.tab-btn.active {
+    background: var(--primary);
+    color: #ffffff;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
+}
+
+#tab-admin.active {
+    background: #0f172a;
+    color: #ffffff;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.25);
+}
+
+/* ==========================================================================
+   7. Alert Messages Box
+   ========================================================================== */
+.alert-box {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border-radius: var(--radius-sm);
+    font-size: 0.875rem;
+    margin-bottom: 20px;
+    animation: fadeIn 0.3s ease;
+}
+
+.alert-box.alert-error {
+    background: var(--danger-bg);
+    color: var(--danger);
+    border: 1px solid #fecaca;
+}
+
+.alert-box.alert-success {
+    background: var(--success-bg);
+    color: var(--success);
+    border: 1px solid #a7f3d0;
+}
+
+/* ==========================================================================
+   8. Form Groups & Inputs
+   ========================================================================== */
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.label-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #334155;
+}
+
+.forgot-link {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.forgot-link:hover {
+    text-decoration: underline;
+}
+
+.input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-icon {
+    position: absolute;
+    left: 14px;
+    color: var(--text-light);
+    font-size: 1rem;
+    pointer-events: none;
+    transition: var(--transition);
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px 14px 12px 42px;
+    font-size: 0.925rem;
+    font-family: inherit;
+    color: var(--text-main);
+    background: #f8fafc;
+    border: 1.5px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    transition: var(--transition);
+}
+
+.form-control:focus {
+    outline: none;
+    background: #ffffff;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+}
+
+.form-control:focus + .input-icon,
+.input-wrapper:focus-within .input-icon {
+    color: var(--primary);
+}
+
+.toggle-password-btn {
+    position: absolute;
+    right: 12px;
+    background: transparent;
+    color: var(--text-light);
+    font-size: 0.95rem;
+    padding: 4px;
+}
+
+.toggle-password-btn:hover {
+    color: var(--text-main);
+}
+
+.field-error {
+    font-size: 0.78rem;
+    color: var(--danger);
+    min-height: 16px;
+}
+
+/* ==========================================================================
+   9. Checkboxes & Options
+   ========================================================================== */
+.form-options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -4px;
+}
+
+.custom-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.custom-checkbox input {
+    width: 16px;
+    height: 16px;
+    accent-color: var(--primary);
+    cursor: pointer;
+}
+
+.checkbox-text {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.security-badge {
+    font-size: 0.75rem;
+    color: #059669;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+/* ==========================================================================
+   10. Action Buttons
+   ========================================================================== */
+.submit-btn {
+    width: 100%;
+    padding: 13px 20px;
+    background: var(--primary);
+    color: #ffffff;
+    font-size: 0.95rem;
+    font-weight: 600;
+    border-radius: var(--radius-sm);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+    margin-top: 6px;
+}
+
+.submit-btn:hover {
+    background: var(--primary-dark);
+    box-shadow: 0 6px 16px rgba(37, 99, 235, 0.35);
+    transform: translateY(-1px);
+}
+
+.submit-btn:active {
+    transform: translateY(0);
+}
+
+.submit-btn.admin-btn {
+    background: #0f172a;
+    box-shadow: 0 4px 12px rgba(15, 23, 42, 0.25);
+}
+
+.submit-btn.admin-btn:hover {
+    background: #1e293b;
+    box-shadow: 0 6px 16px rgba(15, 23, 42, 0.35);
+}
+
+.btn-secondary {
+    background: #f1f5f9;
+    color: var(--text-main);
+    padding: 10px 18px;
+    border-radius: var(--radius-sm);
+    font-weight: 600;
+}
+
+.btn-secondary:hover {
+    background: #e2e8f0;
+}
+
+/* ==========================================================================
+   11. Demo Credentials Helper Box
+   ========================================================================== */
+.demo-credentials-box {
+    margin-top: 22px;
+    border: 1px dashed #cbd5e1;
+    border-radius: var(--radius-sm);
+    background: #f8fafc;
+    overflow: hidden;
+}
+
+.demo-header {
+    padding: 9px 14px;
+    background: #f1f5f9;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.demo-header:hover {
+    color: var(--text-main);
+}
+
+.demo-chevron {
+    transition: transform 0.2s ease;
+}
+
+.demo-chevron.rotated {
+    transform: rotate(180deg);
+}
+
+.demo-content {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 10px 14px;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+}
+
+.demo-item {
+    padding: 6px 8px;
+    background: #ffffff;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.demo-item:hover {
+    border-color: var(--primary);
+    background: var(--primary-subtle);
+}
+
+.demo-item code {
+    background: #e2e8f0;
+    padding: 1px 4px;
+    border-radius: 3px;
+    color: #1e293b;
+    font-family: monospace;
+}
+
+.click-to-fill {
+    font-size: 0.7rem;
+    color: var(--primary);
+    font-weight: 600;
+}
+
+/* ==========================================================================
+   12. Footer & Links
+   ========================================================================== */
+.form-footer {
+    margin-top: 24px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.register-prompt {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+}
+
+.register-link {
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.back-home-link {
+    font-size: 0.825rem;
+    color: var(--text-muted);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.back-home-link:hover {
+    color: var(--text-main);
+}
+
+/* ==========================================================================
+   13. Modals
+   ========================================================================== */
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(15, 23, 42, 0.6);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 100;
+    padding: 16px;
+}
+
+.modal-dialog {
+    background: #ffffff;
+    width: 100%;
+    max-width: 440px;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-xl);
+    overflow: hidden;
+    animation: fadeIn 0.25s ease;
+}
+
+.modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 24px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.modal-header h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+}
+
+.close-modal-btn {
+    background: transparent;
+    font-size: 1.5rem;
+    line-height: 1;
+    color: var(--text-muted);
+}
+
+.modal-body {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.modal-footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 12px;
+    padding: 16px 24px;
+    background: #f8fafc;
+    border-top: 1px solid var(--border-color);
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+}
