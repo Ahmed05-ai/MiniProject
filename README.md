@@ -9,6 +9,8 @@ A full-stack, responsive web application designed for modern campus administrati
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+> 📖 **Project Views & Screen Walkthrough:** Check out [VIEW.md](VIEW.md) for a complete visual guide, UI route breakdown, and demo account credentials.
+
 ---
 
 ## 📋 Compliance with Minor Project Guidelines
@@ -90,6 +92,7 @@ mini project/
 ├── .gitignore                 # Git ignore configuration
 ├── package.json               # Node.js project manifest & dependencies
 ├── README.md                  # Project documentation & guidelines mapping
+├── VIEW.md                    # Project views, UI walkthrough & demo credentials
 └── server.js                  # Main Express backend server entry point
 ```
 
