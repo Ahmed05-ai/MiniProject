@@ -2,6 +2,13 @@
 
 A full-stack, responsive web application designed for modern campus administration, faculty grading, and student academic tracking.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ---
 
 ## 📋 Compliance with Minor Project Guidelines
@@ -14,8 +21,8 @@ This project structure directly satisfies all requirements listed in the **Web D
 | **2** | **CSS3** | Modern styling, Flexbox, CSS Grid, animations, and media queries (`public/css/`) |
 | **3** | **JavaScript** | DOM manipulation, dynamic rendering, input validation (`public/js/`) |
 | **4** | **AJAX / JSON / API** | Asynchronous REST communication via `fetch` API (`public/js/api.js`, `routes/`) |
-| **5** | **Backend Development** | Node.js with Express modular architecture (`server.js`, `controllers/`, `routes/`) |
-| **6** | **Database** | MySQL database schema, relational tables & CRUD operations (`database/schema.sql`, `config/db.js`) |
+| **5** | **Backend & PHP Integration** | Node.js Express architecture & PHP ERP Analytics/Reporting (`server.js`, `php/*.php`, `routes/`) |
+| **6** | **Database & SQL** | Relational SQL schema, 28 tables, relational constraints & CRUD (`database/schema.sql`, `config/db.js`, `php/db.php`) |
 | **7** | **Authentication** | Role-based authentication (Admin, Faculty, Student) with sessions/JWT (`middleware/authMiddleware.js`, `controllers/authController.js`) |
 | **8** | **Version Control** | Git version control ready (`.gitignore`, `README.md`) |
 | **9** | **Testing & Debugging** | Test suites and error handling middleware (`tests/api.test.js`, `middleware/errorMiddleware.js`) |
@@ -43,6 +50,11 @@ mini project/
 ├── middleware/
 │   ├── authMiddleware.js      # JWT & Role-Based Access Control (RBAC)
 │   └── errorMiddleware.js     # Centralized error & 404 handler
+├── php/
+│   ├── db.php                 # PHP PDO database connection bridge
+│   ├── export_grades.php      # Student grade & marksheet exporter (CSV/JSON)
+│   ├── attendance_report.php  # Department-wise attendance reporting utility
+│   └── verify_student.php     # Student enrollment credential verification script
 ├── public/
 │   ├── css/
 │   │   ├── style.css          # Design system, typography, colors, resets
@@ -116,3 +128,27 @@ npm run dev
 ```
 
 Access the application in your browser at: `http://localhost:5000`
+
+---
+
+## 🐘 PHP Academic Utilities & ERP Reporting
+
+The project includes modular **PHP 8** administrative reporting and student analytics utilities located in the `/php` directory:
+
+1. **Student Grade & Marksheet Exporter:**
+   ```bash
+   php php/export_grades.php [csv|json] [student_id]
+   ```
+   *Exports student coursework marks, credit points, and GPA directly to CSV or JSON.*
+
+2. **Departmental Attendance Reporter:**
+   ```bash
+   php php/attendance_report.php [department_code]
+   ```
+   *Generates formatted monthly attendance summaries across CSE, ME, MBA, ECE, and other departments.*
+
+3. **Student Credential & Enrollment Verification:**
+   ```bash
+   php php/verify_student.php <enrollment_no_or_id>
+   ```
+   *Validates student admission status, semester enrollment, and active credentials via CLI.*

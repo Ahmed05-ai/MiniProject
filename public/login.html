@@ -178,6 +178,234 @@
         </div>
     </div>
 
+    <!-- Cookie Consent Banner -->
+    <div id="cookie-consent-banner" class="cookie-consent-bar" style="display: none;">
+        <div class="cookie-content">
+            <div class="cookie-icon-box">
+                <i class="fa-solid fa-cookie-bite"></i>
+            </div>
+            <p class="cookie-text">
+                This website uses cookies to ensure you get the best experience on our campus portal.
+            </p>
+        </div>
+        <div class="cookie-actions">
+            <button type="button" class="cookie-btn cookie-decline-btn" onclick="handleCookieChoice(false)">Decline</button>
+            <button type="button" class="cookie-btn cookie-accept-btn" onclick="handleCookieChoice(true)">Accept</button>
+        </div>
+    </div>
+
+    <!-- Re-open Cookie Preferences Pill Button -->
+    <button type="button" id="cookie-settings-pill" class="cookie-reopen-btn" onclick="showCookieBanner()" title="Cookie Preferences" style="display: none;">
+        <i class="fa-solid fa-cookie-bite"></i>
+        <span>Cookies</span>
+    </button>
+
+    <style>
+        .cookie-consent-bar {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            max-width: 620px;
+            width: calc(100% - 32px);
+            background: rgba(15, 23, 42, 0.96);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            color: #f8fafc;
+            padding: 14px 20px;
+            border-radius: 14px;
+            box-shadow: 0 16px 36px -6px rgba(0, 0, 0, 0.35), 0 0 0 1px rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            z-index: 99999;
+            opacity: 0;
+            transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease;
+            box-sizing: border-box;
+            font-family: inherit;
+        }
+        .cookie-consent-bar.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }
+        .cookie-content {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex: 1;
+        }
+        .cookie-icon-box {
+            font-size: 1.3rem;
+            color: #f59e0b;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .cookie-text {
+            margin: 0;
+            font-size: 0.85rem;
+            line-height: 1.45;
+            color: #e2e8f0;
+            font-weight: 500;
+        }
+        .cookie-actions {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-shrink: 0;
+        }
+        .cookie-btn {
+            padding: 7px 16px;
+            font-size: 0.82rem;
+            font-weight: 700;
+            border-radius: 8px;
+            cursor: pointer;
+            border: none;
+            transition: all 0.2s ease;
+            font-family: inherit;
+        }
+        .cookie-decline-btn {
+            background: rgba(255, 255, 255, 0.1);
+            color: #cbd5e1;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+        .cookie-decline-btn:hover {
+            background: rgba(255, 255, 255, 0.18);
+            color: #ffffff;
+        }
+        .cookie-accept-btn {
+            background: #2563eb;
+            color: #ffffff;
+            box-shadow: 0 4px 12px rgba(37, 99, 235, 0.35);
+        }
+        .cookie-accept-btn:hover {
+            background: #1d4ed8;
+            transform: translateY(-1px);
+        }
+        .cookie-reopen-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            color: #f8fafc;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            padding: 7px 13px;
+            border-radius: 20px;
+            font-size: 0.76rem;
+            font-weight: 700;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            z-index: 9999;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            transition: all 0.2s ease;
+            font-family: inherit;
+        }
+        .cookie-reopen-btn i {
+            color: #f59e0b;
+            font-size: 0.95rem;
+        }
+        .cookie-reopen-btn:hover {
+            background: #1e293b;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+        }
+        @media (max-width: 580px) {
+            .cookie-consent-bar {
+                flex-direction: column;
+                align-items: flex-start;
+                bottom: 12px;
+                padding: 14px;
+            }
+            .cookie-actions {
+                width: 100%;
+                justify-content: flex-end;
+            }
+            .cookie-btn {
+                flex: 1;
+                text-align: center;
+            }
+            .cookie-reopen-btn {
+                bottom: 12px;
+                right: 12px;
+            }
+        }
+    </style>
+
+    <script>
+        function getCookie(name) {
+            const match = document.cookie.match(new RegExp('(^|;\\s*)(' + name + ')=([^;]*)'));
+            return match ? decodeURIComponent(match[3]) : null;
+        }
+
+        function setCookie(name, value, days) {
+            let expires = '';
+            if (days) {
+                const date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                expires = '; expires=' + date.toUTCString();
+            }
+            document.cookie = name + '=' + encodeURIComponent(value) + expires + '; path=/; SameSite=Lax';
+        }
+
+        function deleteCookie(name) {
+            document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; SameSite=Lax';
+        }
+
+        function showCookieBanner() {
+            const banner = document.getElementById('cookie-consent-banner');
+            const pill = document.getElementById('cookie-settings-pill');
+            if (banner) {
+                banner.style.display = 'flex';
+                setTimeout(() => banner.classList.add('show'), 50);
+            }
+            if (pill) pill.style.display = 'none';
+        }
+
+        function handleCookieChoice(accepted) {
+            const banner = document.getElementById('cookie-consent-banner');
+            const pill = document.getElementById('cookie-settings-pill');
+
+            if (accepted) {
+                setCookie('cookie_consent', 'accepted', 365);
+                setCookie('campus_portal_visited', 'true', 365);
+            } else {
+                // When declined, delete the cookie so it automatically asks again on reload
+                deleteCookie('cookie_consent');
+            }
+
+            if (banner) {
+                banner.classList.remove('show');
+                setTimeout(() => {
+                    banner.style.display = 'none';
+                    if (pill) pill.style.display = 'flex';
+                }, 350);
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Auto clear any previous decline cookie so banner shows up on reload
+            if (getCookie('cookie_consent') === 'declined') {
+                deleteCookie('cookie_consent');
+            }
+
+            const consent = getCookie('cookie_consent');
+            const banner = document.getElementById('cookie-consent-banner');
+            const pill = document.getElementById('cookie-settings-pill');
+
+            if (!consent && banner) {
+                showCookieBanner();
+            } else if (pill) {
+                pill.style.display = 'flex';
+            }
+        });
+    </script>
+
     <!-- Client Scripts -->
     <script src="js/api.js"></script>
     <script src="js/auth.js"></script>
